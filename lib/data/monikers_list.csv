@@ -1,1446 +1,2041 @@
-1, Aaron, Erin
-2, Aaron, Ron
-3, Aaron, Ronnie
-4, Abel, Ab
-5, Abel, Abe
-6, Abel, Eb
-7, Abel, Ebbie
-8, Abiel, Ab
-9, Abigail, Abby
-10, Abigail, Gail
-12, Abigail, Nabby
-13, Abner, Ab
-14, Abraham, Ab
-15, Abraham, Abe
-16, Abram, Ab
-17, Adaline, Ada
-18, Adaline, Addy
-19, Adaline, Delia
-20, Adaline, Dell
-21, Adaline, Lena
-22, Adelaide, Addy
-23, Adelaide, Adele
-24, Adelaide, Dell
-25, Adelaide, Della
-26, Adelaide, Heidi
-27, Adeline, Ada
-28, Adeline, Addy
-29, Adeline, Delia
-30, Adeline, Dell
-31, Adeline, Lena
-32, Adelphia, Addy
-33, Adelphia, Adele
-34, Adelphia, Dell
-35, Adelphia, Delphia
-36, Adelphia, Philly
-37, Agatha, Aggy
-38, Agnes, Aggy
-39, Agnes, Inez
-40, Agnes, Nessa
-41, Aileen, Allie
-42, Aileen, Lena
-43, Alan, Al
-44, Albert, Al
-45, Albert, Bert
-46, Alberta, Allie
-47, Alberta, Bert
-48, Alberta, Bertie
-49, Aldo, Al
-50, Aldrich, Rich
-51, Aldrich, Riche
-52, Alexander, Al
-53, Alexander, Alex
-54, Alexander, Sandy
-55, Alexandra, Alex
-56, Alexandra, Alla
-57, Alexandra, Sandra
-58, Alexandra, Sandy
-59, Alfonse, Al
-60, Alfred, Al
-61, Alfred, Fred
-62, Alfred, Freddy
-63, Alfreda, Alfy
-64, Alfreda, Freda
-65, Alfreda, Freddy
-66, Alfreda, Frieda
-67, Alice, Allie
-68, Alice, Elsie
-69, Alice, Lisa
-70, Alicia, Allie
-71, Alicia, Elsie
-72, Alicia, Lisa
-73, Allan, Al
-74, Allen, Al
-75, Allisandra, Allie
-76, Almena, Allie
-77, Almena, Mena
-78, Alonzo, Al
-79, Alonzo, Lon
-80, Alonzo, Lonzo
-81, Amanda, Manda
-82, Amanda, Mandy
-83, Amelia, Amy
-84, Amelia, Emily
-85, Amelia, Mel
-86, Amelia, Millie
-87, Anderson, Andy
-88, Andrew, Andy
-89, Andrew, Drew
-90, Ann, Annie
-91, Ann, Nan
-92, Ann, Nana
-93, Ann, Nancy
-94, Ann, Nanny
-95, Anne, Annie
-96, Anne, Nan
-97, Anne, Nana
-98, Anne, Nancy
-99, Anne, Nanny
-100, Anthony, Tony
-101, Antoinette, Ann
-102, Antoinette, Netta
-103, Antoinette, Tony
-104, Antonia, Ann
-105, Antonia, Netta
-106, Antonia, Tony
-107, Arabella, Ara
-108, Arabella, Arry
-109, Arabella, Bella
-110, Arabella, Belle
-111, Arabelle, Ara
-112, Arabelle, Arry
-113, Arabelle, Bella
-114, Arabelle, Belle
-115, Archibald, Archie
-116, Arlene, Arly
-117, Arlene, Lena
-118, Armena, Arry
-119, Armena, Mena
-120, Arthur, Art
-121, Asahel, Asa
-122, Asaph, Asa
-123, Asenath, Assene
-124, Asenath, Natty
-125, Asenath, Sene
-126, August, Gus
-127, Augusta, Aggy
-128, Augusta, Gatsy
-129, Augusta, Gussie
-130, Augusta, Tina
-131, Augustina, Aggy
-132, Augustina, Gatsy
-133, Augustina, Gussie
-134, Augustina, Tina
-135, Augustine, August
-136, Augustine, Austin
-137, Augustine, Gus
-138, Augustine, Gus
-139, Augustus, August
-140, Augustus, Austin
-141, Augustus, Gus
-142, Azariah, Aze
-143, Azariah, Riah
-144, Barbara, Bab
-145, Barbara, Babs
-146, Barbara, Barby
-147, Barbara, Bobbie
-148, Barnabas, Barney
-149, Bartholomew, Bart
-150, Bartholomew, Bartel
-151, Bartholomew, Bat
-152, Bartholomew, Mees
-153, Bartholomew, Meus
-154, Beatrice, Bea
-155, Beatrice, Trisha
-156, Beatrice, Trix
-157, Beatrice, Trixie
-158, Belinda, Belle
-159, Belinda, Linda
-161, Benedict, Ben
-162, Benedict, Bennie
-163, Benjamin, Ben
-164, Benjamin, Benjy
-165, Benjamin, Bennie
-166, Benjamin, Jamie
-167, Bernard, Barney
-168, Bernard, Berney
-169, Bernard, Bernie
-170, Bertha, Bert
-171, Bertha, Bertie
-172, Bertha, Birdie
-173, Bill, Fred
-174, Billy, Fred
-175, Bradford, Brad
-176, Bradford, Ford
-177, Bridget, Biddie
-178, Bridget, Biddy
-179, Bridget, Bridgie
-180, Bridget, Bridie
-181, Broderick, Brady
-182, Broderick, Brody
-183, Broderick, Rick
-184, Broderick, Ricky
-185, Calvin, Cal
-186, Calvin, Vin
-187, Calvin, Vinny
-188, Cameron, Cam
-189, Cameron, Ron
-191, Cameron, Ronny
-192, Camille, Cammie
-193, Camille, Millie
-194, Carol, Carrie
-195, Carol, Cassie
-196, Carol, Lynn
-197, CarolAnn, Carol
-198, CarolAnn, Carole
-199, Caroline, Carol
-200, Caroline, Carole
-201, Caroline, Carrie
-202, Caroline, Cassie
-203, Caroline, Lynn
-204, Carolyn, Carrie
-205, Carolyn, Cassie
-206, Carolyn, Lynn
-207, Casey, K.C.
-208, Cassandra, Cassie
-209, Cassandra, Sandra
-210, Cassandra, Sandy
-211, Catherine, Cassie
-212, Catherine, Cathy
-213, Catherine, Kathy
-214, Catherine, Katy
-215, Catherine, Kay
-216, Catherine, Kit
-217, Catherine, Kittie
-218, Catherine, Lena
-219, Catherine, Trina
-220, Cathleen, Cassie
-221, Cathleen, Cathy
-222, Cathleen, Kathy
-223, Cathleen, Katy
-224, Cathleen, Kay
-225, Cathleen, Kit
-226, Cathleen, Kittie
-227, Cathleen, Lena
-228, Cathleen, Trina
-229, Cecilia, Celia
-230, Cecilia, Cissy
-231, Cedric, Ced
-232, Cedric, Rick
-233, Cedric, Ricky
-234, Charles, Carl
-235, Charles, Charlie
-236, Charles, Chick
-237, Charles, Chuck
-238, Charles, Chuck
-239, Charlotte, Char
-240, Charlotte, Lotta
-241, Charlotte, Lottie
-242, Charlotte, Sherry
-243, Chauncey, Chan
-244, Chester, Chet
-245, Christa, Chris
-246, Christian, Chris
-247, Christian, Chris
-248, Christian, Kit
-249, Christiana, Ann
-250, Christiana, Chris
-251, Christiana, Christy
-252, Christiana, Crissy
-253, Christiana, Kris
-254, Christiana, Kristy
-255, Christiana, Tina
-256, Christina, Chris
-257, Christina, Christy
-258, Christina, Crissy
-259, Christina, Kris
-260, Christina, Kristy
-261, Christina, Tina
-262, Christina, Tina
-263, Christine, Chris
-264, Christine, Chrissy
-265, Christine, Crissy
-266, Christine, Kris
-267, Christine, Kristy
-268, Christine, Tina
-269, Christopher, Chris
-270, Christopher, Kit
-271, Clarence, Clair
-272, Clarence, Clare
-273, Clarinda, Clara
-274, Clarissa, Cissy
-275, Clarissa, Clara
-276, Clement, Clem
-277, Clement, Clem
-278, Clifford, Cliff
-279, Clifford, Ford
-280, Clifton, Cliff
-281, Clifton, Tony
-282, Columbus, Clum
-283, Conrad, Con
-284, Conrad, Conny
-285, Constance, Connie
-286, Cordelia, Cordy
-287, Cordelia, Delia
-288, Cornelia, Cornie
-289, Cornelia, Corny
-290, Cornelia, Nelia
-291, Cornelia, Nelle
-292, Cornelia, Nelly
-293, Cornelius, Con
-294, Cornelius, Conny
-295, Cornelius, Corny
-296, Cornelius, Niel
-297, Courtney, Court
-298, Courtney, Curt
-299, Curtis, Curt
-300, Cynthia, Cindy
-301, Cynthia, Cindy
-302, Cynthia, Cintha
-303, Cyrenius, Cene
-304, Cyrenius, Cy
-305, Cyrenius, Renius
-306, Cyrenius, Serene
-307, Cyrenius, Swene
-308, Dal, Dahl
-309, Dalton, Dahl
-310, Daniel, Dan
-311, Daniel, Danny
-312, Darlene, Darry
-313, Darlene, Lena
-314, David, Dave
-315, David, Davey
-316, David, Day
-317, Debora, Deb
-318, Debora, Debbie
-319, Debora, Debby
-320, Deborah, Deb
-321, Deborah, Debbie
-322, Deborah, Debby
-323, Debra, Deb
-324, Debra, Debbie
-325, Delbert, Bert
-326, Delbert, Del
-327, Deliverance, Della
-328, Deliverance, Delly
-329, Deliverance, Dilly
-330, Delores, Dee
-331, Delores, Dell
-332, Delores, Della
-333, Delores, Lola
-334, Delores, Lolly
-335, Dennis, Denny
-336, Dennison, Denny
-337, Derrick, Eric
-338, Derrick, Rick
-339, Derrick, Rick
-340, Derrick, Ricky
-341, Dicey, Dicie
-342, Domenic, Dom
-343, Dominic, Dom
-344, Donald, Don
-345, Donald, Donnie
-346, Donald, Donny
-347, Donald, Dony
-348, Dorcus, Darkey
-349, Dorothy, Dolly
-350, Dorothy, Dortha
-351, Dorothy, Dot
-352, Dorothy, Dotty
-353, Ebenezer, Eb
-354, Ebenezer, Ebbie
-355, Ebenezer, Eben
-356, Edgar, Ed
-357, Edgar, Eddie
-358, Edgar, Eddy
-359, Edith, Edie
-360, Edith, Edie
-361, Edith, Edye
-362, Edmond, Ed
-363, Edmond, Eddie
-364, Edmond, Eddy
-365, Edmund, Ed
-366, Edmund, Ed
-367, Edmund, Eddie
-368, Edmund, Eddy
-369, Edmund, Ned
-370, Edmund, Ted
-371, Eduardo, Ed
-372, Eduardo, Eddie
-373, Eduardo, Eddy
-374, Edward, Ed
-375, Edward, Eddie
-376, Edward, Eddy
-377, Edward, Ned
-378, Edward, Ted
-379, Edward, Teddy
-380, Edwin, Ed
-381, Edwin, Eddie
-382, Edwin, Eddy
-383, Edwin, Ned
-384, Edwin, Win
-385, Edyth, Edie
-386, Edyth, Edye
-387, Edythe, Edie
-388, Edythe, Edye
-389, Elbert, Albert
-390, Eleanor, Elaine
-391, Eleanor, Ellen
-392, Eleanor, Ellen
-393, Eleanor, Ellie
-394, Eleanor, Lanna
-395, Eleanor, Lenora
-396, Eleanor, Nelly
-397, Eleanor, Nora
-398, Eleazer, Lazar
-399, Elias, Eli
-400, Elias, Lee
-401, Elias, Lias
-402, Elijah, Eli
-403, Elijah, Lige
-404, Eliphalet, Left
-405, Elisha, Eli
-406, Elisha, Lish
-407, Elizabeth, Bess
-408, Elizabeth, Bessie
-409, Elizabeth, Beth
-410, Elizabeth, Betsy
-411, Elizabeth, Betty
-412, Elizabeth, Eliza
-413, Elizabeth, Lib
-414, Elizabeth, Libby
-415, Elizabeth, Lisa
-416, Elizabeth, Liz
-417, Elizabeth, Liza
-418, Elizabeth, Lizzie
-419, Ellswood, Elsey
-420, Elmira, Ellie
-421, Elmira, Elly
-422, Elmira, Mira
-423, Elouise, Louise
-424, Elsie, Elsey
-425, Elswood, Elsey
-426, Elwood, Woody
-427, Elze, Elsey
-428, Emanuel, Manny
-429, Emanuel, Manuel
-430, Emeline, Em
-431, Emeline, Emily
-432, Emeline, Emma
-433, Emeline, Emmy
-434, Emeline, Milly
-435, Emily, Emma
-436, Emily, Emmy
-437, Emily, Millie
-438, Epaphroditius, Dite
-439, Epaphroditius, Ditus
-440, Epaphroditius, Dyce
-441, Epaphroditius, Dyche
-442, Epaphroditius, Eppa
-443, Ephraim, Eph
-444, Eric, Rick
-445, Eric, Ricky
-446, Ernest, Ernie
-447, Estella, Essy
-448, Estella, Stella
-449, Estelle, Essy
-450, Estelle, Stella
-451, Eugene, Gene
-452, Evaline, Eva
-453, Evaline, Eve
-454, Evaline, Lena
-455, Ezekiel, Ez
-456, Ezekiel, Zeke
-457, Ezra, Ez
-458, Faith, Fay
-459, Feltie, Felty
-460, Ferdinand, Ferdie
-461, Ferdinand, Fred
-462, Ferdinand, Freddie
-463, Ferdinand, Freddy
-464, Fidelia, Delia
-465, Florence, Flo
-466, Florence, Flora
-467, Florence, Flossy
-468, Frances, Cissy
-469, Frances, Fanny
-470, Frances, Fran
-471, Frances, Francie
-472, Frances, Frankie
-473, Frances, Frannie
-474, Frances, Franniey
-475, Frances, Sis
-476, Francine, Fran
-477, Francine, Francie
-478, Francine, Frannie
-479, Francine, Franniey
-480, Francis, Fran
-481, Francis, Fran
-482, Francis, Frank
-483, Francis, Frankie
-484, Franklin, Fran
-485, Franklin, Frank
-486, Franklind, Frank
-487, Frederick, Fred
-488, Frederick, Fred
-489, Frederick, Freddie
-490, Frederick, Freddy
-491, Frederick, Freddy
-492, Frederick, Fritz
-493, Fredericka, Freda
-494, Fredericka, Freddy
-495, Fredericka, Frieda
-496, Fredericka, Ricka
-497, Frieda, Fred
-498, Frieda, Freddie
-499, Frieda, Freddy
-500, Gabriel, Gabby
-501, Gabriel, Gabe
-502, Gabriella, Ella
-503, Gabriella, Gabby
-504, Gabrielle, Ella
-505, Gabrielle, Gabby
-506, Genevieve, Eve
-507, Genevieve, Jean
-508, Genevieve, Jenny
-509, Geoffrey, Geoff
-510, Geoffrey, Jeff
-511, Gerald, Gerry
-512, Gerald, Jerry
-513, Geraldine, Dina
-514, Geraldine, Gerrie
-515, Geraldine, Gerry
-516, Geraldine, Jerry
-517, Gertrude, Gert
-518, Gertrude, Gertie
-519, Gertrude, Trudy
-520, Gilbert, Bert
-521, Gilbert, Bert
-522, Gilbert, Gil
-523, Gilbert, Wilber
-524, Gwendolyn, Gwen
-525, Gwendolyn, Wendy
-526, Hannah, Anna
-527, Hannah, Nan
-528, Hannah, Nanny
-529, Harold, Hal
-530, Harold, Harry
-531, Harriet, Hattie
-532, Helen, Ella
-533, Helen, Ellen
-534, Helen, Ellie
-535, Helen, Lena
-536, Helene, Ella
-537, Helene, Ellen
-538, Helene, Ellie
-539, Helene, Lena
-540, Heloise, Eloise
-541, Heloise, Elouise
-542, Heloise, Lois
-543, Henrietta, Etta
-544, Henrietta, Etty
-545, Henrietta, Hank
-546, Henrietta, Nettie
-547, Henrietta, Retta
-548, Henry, Hal
-549, Henry, Hank
-550, Henry, Harry
-551, Hephsibah, Hipsie
-552, Hepsibah, Hipsie
-553, Herbert, Bert
-554, Herbert, Herb
-555, Hermione, Hermie
-556, Hester, Esther
-557, Hester, Hessy
-558, Hester, Hetty
-559, Hezekiah, Hez
-560, Hezekiah, Hy
-561, Hezekiah, Kiah
-562, Hiram, Hy
-563, Hopkins, Hop
-564, Hopkins, Hopp
-565, Horace, Horry
-566, Hubert, Bert
-567, Hubert, Bert
-568, Hubert, Hub
-569, Hubert, Hugh
-570, Ignatius, Iggy
-571, Ignatius, Nace
-572, Ignatius, Nate
-573, Ignatius, Natius
-574, Irene, Rena
-575, Irving, Irv
-576, Isaac, Ike
-577, Isaac, Zeke
-578, Isabel, Bell
-579, Isabel, Bella
-580, Isabel, Belle
-581, Isabel, Ib
-582, Isabel, Issy
-583, Isabel, Nib
-584, Isabel, Nibby
-585, Isabel, Tibbie
-586, Isabella, Bella
-587, Isabella, Belle
-588, Isabella, Ib
-589, Isabella, Issy
-590, Isabella, Nib
-591, Isabella, Nibby
-592, Isabella, Tibbie
-593, Isabelle, Bella
-594, Isabelle, Belle
-595, Isabelle, Ib
-596, Isabelle, Issy
-597, Isabelle, Nib
-598, Isabelle, Nibby
-599, Isabelle, Tibbie
-600, Isadora, Dora
-601, Isadora, Issy
-602, Isidore, Izzy
-603, Jacob, Jaap
-604, Jacob, Jake
-605, Jacob, Jay
-606, Jacob, Jay
-607, Jacobus, Jacob
-608, James, Jamie
-609, James, Jem
-610, James, Jim
-611, James, Jimmie
-612, James, Jimmy
-613, Jane, Janie
-614, Jane, Jean
-615, Jane, Jennie
-616, Jane, Jessie
-617, Janet, Jan
-618, Janet, Jan
-619, Janet, Jessie
-620, Janice, Jan
-621, Jean, Jane
-622, Jean, Jeannie
-623, Jeanette, Janet
-624, Jeanette, Jean
-625, Jeanette, Jessie
-626, Jeanette, Nettie
-627, Jeanne, Jane
-628, Jeanne, Jeannie
-629, Jedidiah, Jed
-630, Jefferson, Jeff
-631, Jefferson, Sonny
-632, Jeffrey, Geoff
-633, Jeffrey, Jeff
-634, Jeffrey, Jeff
-635, Jehiel, Hiel
-636, Jemima, Mima
-637, Jennifer, Jennie
-638, Jeremiah, Jereme
-639, Jeremiah, Jerry
-640, Jessica, Jessie
-641, Joan, Jo
-642, Joan, Nonie
-643, Joann, Jo
-644, Joanna, Hannah
-645, Joanna, Jo
-646, Joanna, Joan
-647, Joanna, Jody
-648, Joanne, Jo
-649, Johanna, Jo
-650, Johannah, Hannah
-651, Johannah, Joan
-652, Johannah, Jody
-653, Johannah, Nonie
-654, John, Jack
-655, John, Jock
-656, John, Johnny
-657, Jon, John
-658, Jon, Nathan
-659, Jonathan, John
-660, Jonathan, Nathan
-661, Joseph, Jody
-662, Joseph, Joe
-663, Joseph, Joey
-664, Joseph, Jos
-665, Josephine, Fina
-666, Josephine, Jo
-667, Josephine, Jody
-668, Josephine, Joey
-669, Josephine, Josey
-670, Joshua, Jos
-671, Joshua, Josh
-672, Josiah, Jos
-673, Joyce, Joy
-674, Juanita, Nettie
-675, Juanita, Nita
-676, Judson, Jud
-677, Judson, Sonny
-678, Julia, Jill
-679, Julia, Julie
-680, Julian, Jule
-681, Julias, Jule
-682, Junior, JR
-683, Junior, June
-684, Junior, Junie
-685, Kasey, K.C.
-686, Katelin, Kate
-687, Katelin, Kay
-688, Katelin, Kaye
-689, Katelyn, Kate
-690, Katelyn, Kay
-691, Katelyn, Kaye
-692, Katherine, Cassie
-693, Katherine, Cathy
-694, Katherine, Kate
-695, Katherine, Kathy
-696, Katherine, Katy
-697, Katherine, Kay
-698, Katherine, Kaye
-699, Katherine, Kit
-700, Katherine, Kittie
-701, Katherine, Lena
-702, Katherine, Trina
-703, Kathleen, Cassie
-704, Kathleen, Cathy
-705, Kathleen, Kathy
-706, Kathleen, Kathy
-707, Kathleen, Katy
-708, Kathleen, Kay
-709, Kathleen, Kit
-710, Kathleen, Kittie
-711, Kathleen, Lena
-712, Kathleen, Trina
-713, Kathryn, Kathy
-714, Kendall, Ken
-715, Kendall, Kenny
-716, Kenneth, Ken
-717, Kenneth, Kendrick
-718, Kenneth, Kenny
-719, Kent, Ken
-720, Kent, Kendrick
-721, Kent, Kenny
-722, Keziah, Kizza
-723, Keziah, Kizzie
-724, Kimberley, Kim
-725, Kimberly, Kim
-726, Kingsley, King
-727, Kingston, King
-728, Kristen, Chris
-729, Kristin, Chris
-730, Kristine, Chris
-731, Kristine, Christy
-732, Kristine, Crissy
-733, Kristine, Kris
-734, Kristine, Kristy
-735, Kristine, Tina
-736, Kristy, Chris
-737, Lafayette, Fate
-738, Lafayette, Laffie
-739, Lamont, Monty
-740, Laurence, Larry
-741, Laurence, Lon
-742, Laurence, Lonny
-743, Laurence, Lorne
-744, Laurence, Lorry
-745, Lavina, Ina
-746, Lavina, Vina
-747, Lavina, Viney
-748, Lavinia, Ina
-749, Lavinia, Vina
-750, Lavinia, Viney
-751, Lawrence, Larry
-752, Lawrence, Lon
-753, Lawrence, Lonny
-754, Lawrence, Lorne
-755, Lawrence, Lorry
-756, Lemuel, Lem
-757, Lenora, Lee
-758, Lenora, Nora
-759, Leonard, Len
-760, Leonard, Lenny
-761, Leonard, Leo
-762, Leonard, Leon
-763, Leonard, Lineau
-764, LeRoy, L.R.
-765, LeRoy, Lee
-766, LeRoy, Roy
-767, Leslie, Les
-768, Lester, Les
-769, Letitia, Lettice
-770, Letitia, Lettie
-771, Letitia, Tish
-772, Letitia, Titia
-773, Levi, Lee
-774, Lidia, Lyddy
-775, Lillah, Lil
-776, Lillah, Lilly
-777, Lillah, Lily
-778, Lillah, Lolly
-779, Lillian, Lil
-780, Lillian, Lilly
-781, Lillian, Lolly
-782, Lincoln, Link
-783, Linda, Lindy
-784, Linda, Lynn
-785, Lisa, Alice
-786, Lisa, Melissa
-787, Lois, Louise
-788, Lorenzo, Loren
-789, Loretta, Etta
-790, Loretta, Lorrie
-791, Loretta, Retta
-792, Lorraine, Lorrie
-793, Louisa, Eliza
-794, Louisa, Lois
-795, Louisa, Lou
-796, Louise, Eliza
-797, Louise, Lois
-798, Louise, Lou
-799, Lucas, Luke
-800, Lucias, Luke
-801, Lucille, Cille
-802, Lucille, Lou
-803, Lucille, Lu
-804, Lucille, Lucy
-805, Lucinda, Cindy
-806, Lucinda, Lou
-807, Lucinda, Lu
-808, Lucinda, Lucy
-809, Luella, Ella
-810, Luella, Lu
-811, Luella, Lula
-812, Luther, Luke
-813, Lydia, Lyddy
-814, Lyndon, Lindy
-815, Lyndon, Lynn
-816, Madeline, Lena
-817, Madeline, Maddy
-818, Madeline, Madge
-819, Madeline, Magda
-820, Madeline, Maggie
-821, Magdelina, Lena
-822, Magdelina, Madge
-823, Magdelina, Magda
-824, Mahala, Hallie
-825, Marcus, Mark
-826, Margaret, Daisy
-827, Margaret, Gretta
-828, Margaret, Madge
-829, Margaret, Maggie
-830, Margaret, Maggy
-831, Margaret, Marge
-832, Margaret, Margery
-833, Margaret, Margie
-834, Margaret, Margie
-835, Margaret, Margy
-836, Margaret, Meg
-837, Margaret, Midge
-838, Margaret, Peg
-839, Margaret, Peggy
-840, Margaret, Peggy
-841, Margaret, Rita
-842, Margaretta, Daisy
-843, Margaretta, Gretta
-844, Margaretta, Madge
-845, Margaretta, Maggie
-846, Margaretta, Marge
-847, Margaretta, Margery
-848, Margaretta, Margie
-849, Margaretta, Meg
-850, Margaretta, Midge
-851, Margaretta, Peg
-852, Margaretta, Peggy
-853, Margaretta, Rita
-854, Marjorie, Margie
-855, Marjorie, Margy
-856, Martha, Marty
-857, Martha, Mat
-858, Martha, Mattie
-859, Martha, Patsy
-860, Martha, Patty
-861, Martin, Marty
-862, Martina, Tina
-863, Marvin, Marv
-864, Mary, Mae
-865, Mary, Mamie
-866, Mary, Mitzi
-867, Mary, Molly
-868, Mary, Polly
-869, Matilda, Matty
-870, Matilda, Maud
-871, Matilda, Tilly
-872, Matthew, Matt
-873, Matthew, Mattie
-874, Matthew, Matty
-875, Matthew, Thias
-876, Matthew, Thys
-877, Matthias, Matt
-878, Matthias, Thias
-879, Matthias, Thys
-880, Maurice, Morey
-881, Mehitabel, Hetty
-882, Mehitabel, Hitty
-883, Mehitabel, Mabel
-884, Mehitabel, Mitty
-885, Melinda, Linda
-886, Melinda, Lindy
-887, Melinda, Lindy
-888, Melinda, Lynn
-889, Melinda, Mel
-890, Melinda, Mindy
-891, Melissa, Lisa
-892, Melissa, Lissa
-893, Melissa, Mel
-894, Melissa, Milly
-895, Melissa, Missy
-896, Mervyn, Merv
-897, Michael, Micah
-898, Michael, Mick
-899, Michael, Micky
-900, Michael, Mike
-901, Michelle, Mickey
-902, Mildred, Milly
-903, Millicent, Milly
-904, Millicent, Missy
-905, Minerva, Minnie
-906, Miranda, Mandy
-907, Miranda, Mira
-908, Miranda, Randy
-909, Miriam, Mimi
-910, Miriam, Mitzi
-911, Mitchell, Mitch
-912, Montgomery, Gum
-913, Montgomery, Monty
-914, Morris, Morey
-915, Nancy, Ann
-916, Nancy, Nan
-917, Nancy, Nan
-918, Napoleon, Leon
-919, Napoleon, Nap
-920, Napoleon, Nappy
-921, Natalie, Natty
-922, Natalie, Nettie
-923, Nathan, Nat
-924, Nathan, Nate
-925, Nathaniel, Nat
-926, Nathaniel, Nate
-927, Nathaniel, Nathan
-928, Nathaniel, Natty
-929, Nathaniel, Than
-930, Nicholas, Claas
-931, Nicholas, Claes
-932, Nicholas, Nick
-933, Norbert, Bert
-934, Norbert, Norby
-935, Obadiah, Diah
-936, Obadiah, Dyer
-937, Obadiah, Obed
-938, Obadiah, Obie
-939, Olive, Livia
-940, Olive, Nollie
-941, Olive, Ollie
-942, Oliver, Ollie
-943, Olivia, Livia
-944, Olivia, Nollie
-945, Olivia, Ollie
-946, Oswald, Ossy
-947, Oswald, Ozzy
-948, Oswald, Waldo
-949, Pamela, Pam
-950, Parmelia, Amelia
-951, Parmelia, Melia
-952, Parmelia, Milly
-953, Patience, Pat
-954, Patience, Patty
-955, Patricia, Pat
-956, Patricia, Patsy
-957, Patricia, Patty
-958, Patricia, Tricia
-959, Patrick, Paddy
-960, Patrick, Pat
-961, Patrick, Pate
-962, Patrick, Patsy
-963, Patrick, Peter
-964, Paula, Lina
-965, Paula, Polly
-966, Paulina, Lina
-967, Paulina, Polly
-968, Pelegrine, Perry
-969, Penelope, Penny
-970, Percival, Percy
-971, Peter, Pate
-972, Peter, Pete
-973, Peter, Pete
-974, Peter, Pete
-975, Philetus, Leet
-976, Philetus, Phil
-977, Philinda, Linda
-978, Philinda, Lindy
-979, Philinda, Lynn
-980, Philip, Phil
-981, Phillip, Phil
-982, Phillip, Phil
-983, Prescott, Pres
-984, Prescott, Scott
-985, Prescott, Scotty
-986, Priscilla, Cilla
-987, Priscilla, Cissy
-988, Priscilla, Prissy
-989, Prudence, Prudy
-990, Prudence, Prue
-991, Rachel, Shelly
-992, Rafaela, Rafa
-993, Randolph, Dolph
-994, Randolph, Randy
-995, Raphael, Ralph
-996, Raymond, Ray
-997, Raymond, Ray
-998, Raymond, Ray
-999, Rebecca, Becca
-1000, Rebecca, Beck
-1001, Rebecca, Becky
-1002, Rebecca, Reba
-1003, Regina, Gina
-1004, Regina, Reggie
-1005, Reginald, Naldo
-1006, Reginald, Reg
-1007, Reginald, Reggie
-1008, Reginald, Renny
-1009, Relief, Leafa
-1010, Reuben, Rube
-1011, Ricardo, Rick
-1012, Ricardo, Ricky
-1013, Richard, Dick
-1014, Richard, Dickie
-1015, Richard, Dickon
-1016, Richard, Dicky
-1017, Richard, Rich
-1018, Richard, Rick
-1019, Richard, Rick
-1020, Richard, Rick
-1021, Richard, Ricky
-1022, Richard, Ricky
-1023, Robert, Bob
-1024, Robert, Bobby
-1025, Robert, Dob
-1026, Robert, Dobbin
-1027, Robert, Hob
-1028, Robert, Hobkin
-1029, Robert, Rob
-1030, Robert, Rob
-1031, Roberta, Bert
-1032, Roberta, Bertie
-1033, Roberta, Birdie
-1034, Roberta, Bobbie
-1035, Roberta, Bobbie
-1036, Roberta, Robbie
-1037, Rodger, Bobby
-1038, Rodger, Hodge
-1039, Rodger, Robby
-1040, Rodger, Robin
-1041, Rodger, Rod
-1042, Rodger, Roge
-1043, Rodger, Rupert
-1044, Roger, Bobby
-1045, Roger, Hodge
-1046, Roger, Robby
-1047, Roger, Robin
-1048, Roger, Rod
-1049, Roger, Roge
-1050, Roger, Rupert
-1051, Roland, Lanny
-1052, Roland, Orlando
-1053, Roland, Rollo
-1054, Roland, Rolly
-1055, Ronald, Naldo
-1056, Ronald, Ron
-1057, Ronald, Ron
-1058, Ronald, Ron
-1059, Ronald, Ronny
-1060, Ronald, Ronny
-1061, Ronald, Ronny
-1062, Rosabel, Belle
-1063, Rosabel, Rosa
-1064, Rosabel, Rose
-1065, Rosabel, Roz
-1066, Rosabella, Belle
-1067, Rosabella, Rosa
-1068, Rosabella, Rose
-1069, Rosabella, Roz
-1070, Rosalinda, Linda
-1071, Rosalinda, Rosa
-1072, Rosalinda, Rose
-1073, Rosalinda, Roz
-1074, Rosalyn, Linda
-1075, Rosalyn, Rosa
-1076, Rosalyn, Rose
-1077, Rosalyn, Roz
-1078, Roseann, Ann
-1079, Roseann, Rose
-1080, Roseann, Rosie
-1081, Roseann, Roz
-1082, Roseanna, Ann
-1083, Roseanna, Rose
-1084, Roseanna, Rosie
-1085, Roseanna, Roz
-1086, Roseanne, Ann
-1087, Roxanna, Ann
-1088, Roxanna, Rose
-1089, Roxanna, Roxie
-1090, Roxanne, Ann
-1091, Roxanne, Rose
-1092, Roxanne, Roxie
-1093, Rudolph, Dolph
-1094, Rudolph, Olph
-1095, Rudolph, Rolf
-1096, Rudolph, Rudy
-1097, Rudolphus, Dolph
-1098, Rudolphus, Olph
-1099, Rudolphus, Rolf
-1100, Rudolphus, Rudy
-1101, Russell, Russ
-1102, Russell, Russ
-1103, Russell, Rusty
-1104, Sabrina, Brina
-1105, Samuel, Sam
-1106, Samuel, Sam
-1107, Samuel, Sammy
-1108, Samuel, Sammy
-1109, Sandra, Cassandra
-1110, Sandra, Sandy
-1111, Sarah, Sadie
-1112, Sarah, Sally
-1113, Serena, Rena
-1114, Seymour, Morey
-1115, Seymour, See
-1116, Shelton, Shel
-1117, Shelton, Shelly
-1118, Shelton, Tony
-1119, Sheridan, Dan
-1120, Sheridan, Danny
-1121, Sheridan, Sher
-1123, Shirley, Sherry
-1124, Shirley, Shirl
-1125, Sidney, Sid
-1126, Sidney, Syd
-1127, Silas, Si
-1128, Simeon, Si
-1129, Simeon, Sion
-1130, Simon, Si
-1131, Simon, Sion
-1132, Smith, Smitty
-1133, Solomon, Sal
-1134, Solomon, Salmon
-1135, Solomon, Saul
-1136, Solomon, Sol
-1137, Solomon, Solly
-1138, Solomon, Zolly
-1139, Sophia, Sophie
-1140, Stephan, Steve
-1141, Stephen, Steph
-1142, Stephen, Steve
-1143, Steven, Steph
-1144, Steven, Steve
-1145, Stuart, Stu
-1146, Submit, Mitty
-1147, Sullivan, Sully
-1148, Sullivan, Van
-1149, Susan, Hannah
-1150, Susan, Sue
-1151, Susan, Sukey
-1152, Susan, Susie
-1153, Susan, Suzie
-1154, Susannah, Hannah
-1155, Susannah, Sue
-1156, Susannah, Sukey
-1157, Susannah, Susie
-1158, Sylvester, Si
-1159, Sylvester, Sly
-1160, Sylvester, Sy
-1161, Sylvester, Syl
-1162, Sylvester, Vessie
-1163, Sylvester, Vester
-1164, Sylvester, Vet
-1165, Tabitha, Tabby
-1166, Terence, Terry
-1167, Teresa, Terry
-1168, Thaddeus, Thad
-1169, Theodore, Ted
-1170, Theodore, Ted
-1171, Theodore, Teddy
-1172, Theodore, Teddy
-1173, Theodore, Theo
-1174, Theresa, Terry
-1175, Theresa, Tess
-1176, Theresa, Tessa
-1177, Theresa, Tessie
-1178, Theresa, Thirza
-1179, Theresa, Thursa
-1180, Theresa, Tracy
-1181, Thom, Tom
-1182, Thom, Tommy
-1183, Thomas, Thom
-1184, Thomas, Thom
-1185, Thomas, Tom
-1186, Thomas, Tom
-1187, Thomas, Tom
-1188, Thomas, Tommy
-1189, Thomas, Tommy
-1190, Thomas, Tommy
-1191, Timothy, Tim
-1192, Timothy, Tim
-1193, Timothy, Tim
-1194, Timothy, Timmy
-1195, Timothy, Timmy
-1196, Timothy, Timmy
-1197, Tobias, Bias
-1198, Tobias, Toby
-1199, Tryphena, Phena
-1200, Uriah, Riah
-1201, Valentine, Felty
-1202, Valeri, Val
-1203, Valerie, Val
-1204, Valerie, Val
-1205, Valerie, Val
-1206, Vanessa, Essa
-1207, Vanessa, Nessa
-1208, Vanessa, Vanna
-1209, Veronica, Franky
-1210, Veronica, Frony
-1211, Veronica, Ron
-1212, Veronica, Ronie
-1213, Veronica, Ronna
-1214, Veronica, Ronnie
-1215, Veronica, Ronnie
-1216, Veronica, Vonnie
-1217, Victor, Vic
-1218, Victoria, Torie
-1219, Victoria, Tory
-1220, Victoria, Vic
-1221, Victoria, Vicki
-1222, Victoria, Vicky
-1223, Vincent, Vic
-1224, Vincent, Vin
-1225, Vincent, Vince
-1226, Vincent, Vinnie
-1227, Vincent, Vinny
-1228, Vincenzo, Vic
-1229, Vincenzo, Vin
-1230, Vincenzo, Vinnie
-1231, Vincenzo, Vinny
-1232, Vinson, Vinny
-1233, Virginia, Ginger
-1234, Virginia, Ginny
-1235, Virginia, Jane
-1236, Virginia, Jennie
-1237, Virginia, Virgy
-1238, Wallace, Wally
-1239, Walter, Wally
-1240, Walter, Walt
-1241, Washington, Wash
-1242, Wilber, Bert
-1243, Wilber, Will
-1244, Wilbur, Willie
-1245, Wilbur, Willy
-1246, Wilfred, Fred
-1247, Wilfred, Will
-1248, Wilfred, Willie
-1249, Wilhelmina, Mina
-1250, Wilhelmina, Minnie
-1251, Wilhelmina, Willie
-1252, Wilhelmina, Wilma
-1253, Will, Fred
-1254, William, Bela
-1255, William, Bell
-1256, William, Bill
-1257, William, Billy
-1258, William, Will
-1259, William, Willie
-1260, William, Willy
-1261, Willie, Fred
-1262, Wilson, Will
-1263, Wilson, Willie
-1264, Wilson, Willy
-1265, Winfield, Field
-1266, Winfield, Win
-1267, Winfield, Winny
-1268, Winifred, Freddie
-1269, Winifred, Winnet
-1270, Winifred, Winnie
-1271, Winnifred, Fred
-1272, Winnifred, Freddie
-1273, Winnifred, Freddy
-1274, Winnifred, Winnie
-1275, Winnifred, Winny
-1276, Woodrow, Drew
-1277, Woodrow, Wood
-1278, Woodrow, Woody
-1279, Yvonne, Vonna
-1280, Zachariah, Zach
-1281, Zachariah, Zachy
-1282, Zachariah, Zeke
-1283, Zebedee, Zeb
-1284, Zedediah, Diah
-1285, Zedediah, Dyer
-1286, Zedediah, Zed
-1287, Zephaniah, Zeph
-1288, cheryl, sheryl
-1289, sheryl, sher
-1290, cher, sher
-1291, anne, ann
-1292, Ron, Ronnie
-1293, Eb, Ebbie
-1294, Ada, Addy
-1295, Dell, Della
-1296, Adele, Dell
-1297, Addy, Adele
-1298, Philly, Delphia
-1299, Al, Bert
-1300, Bert, Bertie
-1301, Rich, Riche
-1302, Al, Alex
-1303, Fred, Freddy
-1304, Freda, Frieda
-1305, Lon, Lonzo
-1306, Manda, Mandy
-1307, Emily, Mel
-1308, Andy, Drew
-1309, Nancy, Nanny
-1310, Bella, Belle
-1311, Ara, Arry
-1312, Ara, Belle
-1313, Gus, Gussie
-1314, Babs, Bab
-1315, Babs, Barby
-1316, Bab, Barby
-1317, Trix, Trixie
-1318, Ben, Bennie
-1319, Jamie, Ben
-1320, Berney, Bernie
-1321, Brad, Ford
-1322, Biddie, Biddy
-1323, Brady, Brody
-1324, Rick, Ricky
-1325, Vin, Vinny
-1326, Ron, Ronny
-1327, Carrie, Cassie
-1328, Carol, Carole
-1329, Cathy, Kathy
-1330, Katy, Kathy
-1331, Kit, Kittie
-1332, Charlie, Chuck
-1333, Lotta, Lottie
-1334, Christy, Crissy
-1335, Kris, Chris
-1336, Clair, Clare
-1337, Clare, Clara
-1338, Clair, Clara
-1339, Cliff, Cliff
-1340, Con, Conny
-1341, Nelle, Nelly
-1342, Dan, Danny
-1343, Debbie, Deb
-1344, Debbie, Debby
-1345, Debby, Deb
-1346, Donnie, Donny
-1347, Dot, Dotty
-1348, Ed, Eddie
-1349, Ed, Eddy
-1350, Eddie, Eddy
-1351, Ted, Teddy
-1352, Bess, Bessie
-1353, Beth, Betsy
-1354, Beth, Betty
-1355, Lib, Libby
-1356, Lisa, Liz
-1357, Lisa, Lizzie
-1358, Lizzie, Liz
-1359, Ellie, Elly
-1360, Manny, Manuel
-1361, Emma, Emmy
-1362, Eva, Eve
-1363, Fran, Frannie
-1364, Frankie, Frank
-1365, Gabby, Gabe
-1366, Geoff, Jeff
-1367, Gerry, Jerry
-1368, Gert, Gertie
-1369, Gwen, Wendy
-1370, Ella, Ellen
-1371, Lena, Ellen
-1372, Jim, Jimmie
-1373, Jerry, Jereme
-1374, Jody, Jo
-1375, Joe, Joey
-1376, Julie, Jule
-1377, Kate, Kay
-1378, Kenny, Ken
-1379, Kendrick, Ken
-1380, Kendrick, Kenny
-1381, Leo, Leon
-1382, Lil, Lilly
-1383, Lil, Lily
-1384, Lilly, Lily
-1385, Lindy, Lynn
-1386, Lois, Lou
-1387, Lou, Lu
-1388, Maddy, Madge
-1389, Marge, Margery
-1390, Margie, Margie
-1391, Peg, Peggy
-1392, Mat, Mattie
-1393, Patsy, Patty
-1394, Mick, Micky
-1395, Mike, Mick
-1396, Mike, Micky
-1397, Gum, Monty
-1398, Waldo, Ossy
-1399, Waldo, Ozzy
-1400, Ossy, Ozzy
-1401, Pat, Pat
-1402, Becca, Beck
-1403, Beck, Becky
-1404, Reba, Becca
-1405, Reba, Beck
-1406, Reg, Reggie
-1407, Dick, Rick
-1408, Rich, Rick
-1409, Rich, Dick
-1410, Ricky, Dick
-1411, Ricky, Rich
-1412, Bob, Rob
-1413, Bobby, Rob
-1414, Bobby, Bob
-1415, Bert, Bob
-1416, Bert, Bobby
-1417, Rosa, Rose
-1418, Rose, Rosie
-1419, Sam, Sammy
-1420, Sue, Susie
-1421, Susie, Suzie
-1422, Tom, Tommy
-1423, Tim, Timmy
-1424, Vic, Vicki
-1425, Vic, Vicky
-1426, Vicki, Vicky
-1427, Vince, Vinnie
-1428, Wally, Walt
-1429, Will, Willie
-1430, Bill, Willie
-1431, Bill, Billy
-1432, Will, Bill
-1433, Nick, Nik
-1434, Nik, Nick
-1435, Benedict, Benny
-1436, Benjamin, Benny
-1437, Ben, Benny
-1438, Brad, Bradley
-1439, Bradley, Brad
-1440, Cornelia, Connie
-1441, Connie, Cornelia
-1442, Michael, Michel
-1443, Doug, Douglas
-1444, Doug, Dougie
-1445, Dougie, Douglas
-1446, Douglas, Dougie
-1447, Shari, Sharilyn
-1448, Sue Ellen, Sue
-1449, Sue, Sue Ellen
-1450, Masu, Masarath
+1,Aaron,Erin
+2,Aaron,Ron
+3,Aaron,Ronnie
+4,Abel,Ab
+5,Abel,Abe
+6,Abel,Eb
+7,Abel,Ebbie
+8,Abiel,Ab
+9,Abigail,Abby
+10,Abigail,Gail
+11,Abigail,Nabby
+12,Abner,Ab
+13,Abraham,Ab
+14,Abraham,Abe
+15,Abram,Ab
+16,Ad,Adrian
+17,Ad,Adriana
+18,Ada,Addy
+19,Adaline,Ada
+20,Adaline,Addy
+21,Adaline,Delia
+22,Adaline,Dell
+23,Adaline,Lena
+24,Addy,Adele
+25,Adelaide,Addy
+26,Adelaide,Adele
+27,Adelaide,Dell
+28,Adelaide,Della
+29,Adelaide,Heidi
+30,Adele,Dell
+31,Adeline,Ada
+32,Adeline,Addy
+33,Adeline,Delia
+34,Adeline,Dell
+35,Adeline,Lena
+36,Adelphia,Addy
+37,Adelphia,Adele
+38,Adelphia,Dell
+39,Adelphia,Delphia
+40,Adelphia,Philly
+41,Adria,Adrian
+42,Adrian,Adria
+43,Adriana,Ad
+44,Agatha,Aggy
+45,Agnes,Aggy
+46,Agnes,Inez
+47,Agnes,Nessa
+48,Aileen,Allie
+49,Aileen,Lena
+50,Al,Albert
+51,Al,Alberto
+52,Al,Alex
+53,Al,Bert
+54,Alan,Al
+55,Alan,Allan
+56,Albert,Al
+57,Albert,Albie
+58,Albert,Bert
+59,Alberta,Allie
+60,Alberta,Bert
+61,Alberta,Bertie
+62,Alberto,Al
+63,Alberto,Albert
+64,Aldo,Al
+65,Aldrich,Rich
+66,Aldrich,Riche
+67,Alex,Alix
+68,Alexander,Al
+69,Alexander,Alex
+70,Alexander,Sandy
+71,Alexandra,Alex
+72,Alexandra,Alla
+73,Alexandra,Sandra
+74,Alexandra,Sandy
+75,Alfonse,Al
+76,Alfred,Al
+77,Alfred,Fred
+78,Alfred,Freddy
+79,Alfreda,Alfy
+80,Alfreda,Freda
+81,Alfreda,Freddy
+82,Alfreda,Frieda
+83,Alice,Allie
+84,Alice,Elsie
+85,Alice,Lisa
+86,Alicia,Allie
+87,Alicia,Elsie
+88,Alicia,Lisa
+89,Alison,Ali
+90,Alison,Allie
+91,Alison,Allison
+92,Alix,Alex
+93,Alix,Alexandra
+94,Allan,Al
+95,Allan,Alan
+96,Allan,Allen
+97,Allen,Al
+98,Allen,Allan
+99,Allisandra,Allie
+100,Allison,Ali
+101,Allison,Alison
+102,Allison,Allie
+103,Almena,Allie
+104,Almena,Mena
+105,Alonzo,Al
+106,Alonzo,Lon
+107,Alonzo,Lonzo
+108,Alvino,Al
+109,Aly,Alysha
+110,Alysha,Aly
+111,Ama,Amanda
+112,Amanda,Ama
+113,Amanda,Manda
+114,Amanda,Mandy
+115,Amelia,Amy
+116,Amelia,Emily
+117,Amelia,Mel
+118,Amelia,Millie
+119,Anderson,Andy
+120,Andre,Andrea
+121,Andrea,Andre
+122,Andrew,Andy
+123,Andrew,Drew
+124,Andy,Drew
+125,Ann,Annie
+126,Ann,Nan
+127,Ann,Nana
+128,Ann,Nancy
+129,Ann,Nanny
+130,Anna,Anne
+131,Annalee,Ann
+132,Annalee,Anne
+133,Annalee,Annie
+134,Anne,Ann
+135,Anne,Anna
+136,Anne,Annie
+137,Anne,Nan
+138,Anne,Nana
+139,Anne,Nancy
+140,Anne,Nanny
+141,Annette,Ann
+142,Annette,Annie
+143,Anni,Anne
+144,Anni,Annie
+145,Annie,Ann
+146,Annie,Annette
+147,Annie,Anni
+148,Anthony,Tony
+149,Antoinette,Ann
+150,Antoinette,Netta
+151,Antoinette,Tony
+152,Antonia,Ann
+153,Antonia,Netta
+154,Antonia,Tony
+155,Ara,Arry
+156,Ara,Belle
+157,Arabella,Ara
+158,Arabella,Arry
+159,Arabella,Bella
+160,Arabella,Belle
+161,Arabelle,Ara
+162,Arabelle,Arry
+163,Arabelle,Bella
+164,Arabelle,Belle
+165,Archibald,Archie
+166,Arlene,Arlenee
+167,Arlene,Arly
+168,Arlene,Lena
+169,Arlenee,Arlene
+170,Armena,Arry
+171,Armena,Mena
+172,Arnie,Arnold
+173,Arnold,Arnie
+174,Arrthur,Arthur
+175,Art,Arthur
+176,Arthur,Arrthur
+177,Arthur,Art
+178,Asahel,Asa
+179,Asaph,Asa
+180,Asenath,Assene
+181,Asenath,Natty
+182,Asenath,Sene
+183,August,Gus
+184,Augusta,Aggy
+185,Augusta,Gatsy
+186,Augusta,Gussie
+187,Augusta,Tina
+188,Augustina,Aggy
+189,Augustina,Gatsy
+190,Augustina,Gussie
+191,Augustina,Tina
+192,Augustine,August
+193,Augustine,Austin
+194,Augustine,Gus
+195,Augustus,August
+196,Augustus,Austin
+197,Augustus,Gus
+198,Azariah,Aze
+199,Azariah,Riah
+200,Bab,Barby
+201,Babs,Bab
+202,Babs,Barby
+203,Barb,Babs
+204,Barb,Barbara
+205,Barb,Barbra
+206,Barbara,Bab
+207,Barbara,Babs
+208,Barbara,Barb
+209,Barbara,Barbara Ann
+210,Barbara,Barbra
+211,Barbara,Barby
+212,Barbara,Bobbie
+213,Barbara Ann,Barbara
+214,Barbara Jean,Barb
+215,Barbara Jean,Barbara
+216,Barbra,Barb
+217,Barbra,Barbara
+218,Barnabas,Barney
+219,Bart,Barton
+220,Bartholomew,Bart
+221,Bartholomew,Bartel
+222,Bartholomew,Bat
+223,Bartholomew,Mees
+224,Bartholomew,Meus
+225,Barton,Bart
+226,Beatrice,Bea
+227,Beatrice,Trisha
+228,Beatrice,Trix
+229,Beatrice,Trixie
+230,Becca,Beck
+231,Beck,Becky
+232,Belinda,Belle
+233,Belinda,Linda
+234,Bella,Belle
+235,Ben,Bennie
+236,Ben,Benny
+237,Benedict,Ben
+238,Benedict,Bennie
+239,Benedict,Benny
+240,Benjamin,Ben
+241,Benjamin,Benjy
+242,Benjamin,Bennie
+243,Benjamin,Benny
+244,Benjamin,Jamie
+245,Bernard,Barney
+246,Bernard,Berney
+247,Bernard,Bernie
+248,Bernard,Berrnard
+249,Berney,Bernie
+250,Berrnard,Bernard
+251,Bert,Bertie
+252,Bert,Bob
+253,Bert,Bobby
+254,Bert,Gilbert
+255,Bert,Hubert
+256,Bertha,Bert
+257,Bertha,Bertie
+258,Bertha,Birdie
+259,Bess,Bessie
+260,Beth,Betsy
+261,Beth,Betty
+262,Beth,Elizabeth
+263,Bettyann,Bettya
+264,Bev,Beverley
+265,Bev,Beverly
+266,Beverley,Bev
+267,Beverley,Beverly
+268,Beverly,Bev
+269,Beverly,Beverley
+270,Biddie,Biddy
+271,Bill,Billy
+272,Bill,Fred
+273,Bill,William
+274,Bill,Willie
+275,Billie,Billy
+276,Billy,Billie
+277,Billy,Fred
+278,Bob,Rob
+279,Bobby,Bob
+280,Bobby,Rob
+281,Brad,Bradley
+282,Brad,Ford
+283,Bradford,Brad
+284,Bradford,Ford
+285,Bradley,Brad
+286,Brady,Brody
+287,Brian,Bryan
+288,Bridget,Biddie
+289,Bridget,Biddy
+290,Bridget,Bridgie
+291,Bridget,Bridie
+292,Brit,Britjit
+293,Britjit,Brit
+294,Broderick,Brady
+295,Broderick,Brody
+296,Broderick,Rick
+297,Broderick,Ricky
+298,Bryan,Brian
+299,Bryan,Bryant
+300,Bryant,Bryan
+301,Calvin,Cal
+302,Calvin,Vin
+303,Calvin,Vinny
+304,Cameron,Cam
+305,Cameron,Ron
+306,Cameron,Ronny
+307,Camille,Cammie
+308,Camille,Millie
+309,Carissa,Carisss
+310,Carisss,Carissa
+311,Carol,Carol Anne
+312,Carol,Carole
+313,Carol,Carolyn
+314,Carol,Carrie
+315,Carol,Cassie
+316,Carol,Lynn
+317,Carol Ann,Carol
+318,Carol Anne,Carol
+319,CarolAnn,Carol
+320,CarolAnn,Carole
+321,Carole,Carole Anne
+322,Carole Anne,Carole
+323,Caroline,Carol
+324,Caroline,Carole
+325,Caroline,Carolyn
+326,Caroline,Carolynn
+327,Caroline,Carrie
+328,Caroline,Cassie
+329,Caroline,Lynn
+330,Carolyn,Carol
+331,Carolyn,Caroline
+332,Carolyn,Carolynn
+333,Carolyn,Carolynne
+334,Carolyn,Carrie
+335,Carolyn,Cassie
+336,Carolyn,Lynn
+337,Carolynne,Caroline
+338,Carolynne,Carolyn
+339,Carrie,Carrie Lynn
+340,Carrie,Cassie
+341,Carrie Lynn,Carrie
+342,Casey,K.C.
+343,Cassandra,Cassie
+344,Cassandra,Sandra
+345,Cassandra,Sandy
+346,Catharine,Catherine
+347,Catharine,Cathy
+348,Catherine,Cassie
+349,Catherine,Catharine
+350,Catherine,Cathrine
+351,Catherine,Cathy
+352,Catherine,Kathy
+353,Catherine,Katy
+354,Catherine,Kay
+355,Catherine,Kit
+356,Catherine,Kittie
+357,Catherine,Lena
+358,Catherine,Trina
+359,Cathleen,Cassie
+360,Cathleen,Cathy
+361,Cathleen,Kathy
+362,Cathleen,Katy
+363,Cathleen,Kay
+364,Cathleen,Kit
+365,Cathleen,Kittie
+366,Cathleen,Lena
+367,Cathleen,Trina
+368,Cathrine,Catherine
+369,Cathrine,Cathy
+370,Cathy,Catharine
+371,Cathy,Cathrine
+372,Cathy,Kathy
+373,Cecilia,Celia
+374,Cecilia,Cissy
+375,Cedric,Ced
+376,Cedric,Rick
+377,Cedric,Ricky
+378,Chalene,Charlene
+379,Charle,Charles
+380,Charlene,Chalene
+381,Charles,Carl
+382,Charles,Charle
+383,Charles,Charley
+384,Charles,Charlie
+385,Charles,Chick
+386,Charles,Chuck
+387,Charlie,Chuck
+388,Charlott,Charlotte
+389,Charlotte,Char
+390,Charlotte,Charlott
+391,Charlotte,Lotta
+392,Charlotte,Lottie
+393,Charlotte,Sherry
+394,Charlottr,Charlotte
+395,Chauncey,Chan
+396,cher,sher
+397,cheryl,sheryl
+398,Chester,Chet
+399,Chris,Christian
+400,Chrissy,Christina
+401,Chrissy,Christine
+402,Christa,Chris
+403,Christian,Chris
+404,Christian,Kit
+405,Christiana,Ann
+406,Christiana,Chris
+407,Christiana,Christy
+408,Christiana,Crissy
+409,Christiana,Kris
+410,Christiana,Kristy
+411,Christiana,Tina
+412,Christie,Chris
+413,Christie,Christine
+414,Christina,Chris
+415,Christina,Chrissy
+416,Christina,Christine
+417,Christina,Christy
+418,Christina,Crissy
+419,Christina,Cristina
+420,Christina,Kris
+421,Christina,Kristy
+422,Christina,Tina
+423,Christine,Chris
+424,Christine,Chrissy
+425,Christine,Christie
+426,Christine,Christina
+427,Christine,Christne
+428,Christine,Christy
+429,Christine,Crissy
+430,Christine,Kris
+431,Christine,Kristy
+432,Christine,Tina
+433,Christopher,Chris
+434,Christopher,Kit
+435,Christy,Christina
+436,Christy,Christine
+437,Christy,Crissy
+438,Chuck,Charles
+439,Cindy,Cynthia
+440,Clair,Clara
+441,Clair,Clare
+442,Clare,Clara
+443,Clarence,Clair
+444,Clarence,Clare
+445,Clarinda,Clara
+446,Clarissa,Cissy
+447,Clarissa,Clara
+448,Clay,Clayton
+449,Clayton,Clay
+450,Cleatus,Ceatus
+451,Clem,Clement
+452,Clement,Clem
+453,Cleveland,Cleve
+454,Cliff,Cliff
+455,Clifford,Cliff
+456,Clifford,Ford
+457,Clifton,Cliff
+458,Clifton,Tony
+459,Clint,Clinton
+460,Clinton,Clint
+461,Colette,Collette
+462,Collette,Colette
+463,Columbus,Clum
+464,Con,Conny
+465,Connie,Cornelia
+466,Conrad,Con
+467,Conrad,Conny
+468,Constanc,Constance
+469,Constance,Connie
+470,Constance,Constanc
+471,Cordelia,Cordy
+472,Cordelia,Delia
+473,Cornelia,Connie
+474,Cornelia,Cornie
+475,Cornelia,Corny
+476,Cornelia,Nelia
+477,Cornelia,Nelle
+478,Cornelia,Nelly
+479,Cornelius,Con
+480,Cornelius,Conny
+481,Cornelius,Corny
+482,Cornelius,Niel
+483,Courtney,Court
+484,Courtney,Curt
+485,Cristina,Christina
+486,Curtis,Curt
+487,Cynthia,Cindy
+488,Cynthia,Cintha
+489,Cyrenius,Cene
+490,Cyrenius,Cy
+491,Cyrenius,Renius
+492,Cyrenius,Serene
+493,Cyrenius,Swene
+494,Dal,Dahl
+495,Dalton,Dahl
+496,Dan,Danny
+497,Danie,Danielle
+498,Daniel,Dan
+499,Daniel,Danny
+500,Danielle,Danie
+501,Darlene,Darry
+502,Darlene,Lena
+503,David,Dave
+504,David,Davey
+505,David,Day
+506,Deb,Debbie
+507,Deb,Debera
+508,Debbie,Deb
+509,Debbie,Debby
+510,Debbie,Debora
+511,Debbie,Deborah
+512,Debby,Deb
+513,Debera,Deb
+514,Debora,Deb
+515,Debora,Debbie
+516,Debora,Debby
+517,Deborah,Deb
+518,Deborah,Debbie
+519,Deborah,Debby
+520,Debra,Deb
+521,Debra,Debbie
+522,Debra,Deborah
+523,Debra,Debra Jean
+524,Debra,Debta
+525,Debra Jean,Debra
+526,Deccker,Decker
+527,Decker,Deccker
+528,Delbert,Bert
+529,Delbert,Del
+530,Deliverance,Della
+531,Deliverance,Delly
+532,Deliverance,Dilly
+533,Dell,Della
+534,Delores,Dee
+535,Delores,Dell
+536,Delores,Della
+537,Delores,Lola
+538,Delores,Lolly
+539,Dennis,Denny
+540,Dennison,Denny
+541,Derrick,Eric
+542,Derrick,Rick
+543,Derrick,Ricky
+544,Dicey,Dicie
+545,Dick,Rick
+546,Domenic,Dom
+547,Domenic,Dominic
+548,Dominic,Dom
+549,Dominic,Domenic
+550,Donald,Don
+551,Donald,Donnie
+552,Donald,Donny
+553,Donald,Dony
+554,Donnie,Donny
+555,Dorcus,Darkey
+556,Doris,Doris Anne
+557,Doris Anne,Doris
+558,Dorothy,Dolly
+559,Dorothy,Dortha
+560,Dorothy,Dot
+561,Dorothy,Dotty
+562,Dot,Dotty
+563,Doug,Dougie
+564,Doug,Douglas
+565,Dougie,Douglas
+566,Douglas,Doug
+567,Douglas,Dougie
+568,Eb,Ebbie
+569,Ebenezer,Eb
+570,Ebenezer,Ebbie
+571,Ebenezer,Eben
+572,Ed,Eddie
+573,Ed,Eddy
+574,Ed,Edmund
+575,Ed,Edouard
+576,Ed,Edward
+577,Eddie,Eddy
+578,Edgar,Ed
+579,Edgar,Eddie
+580,Edgar,Eddy
+581,Edie,Edith
+582,Edith,Edie
+583,Edith,Edye
+584,Edmond,Ed
+585,Edmond,Eddie
+586,Edmond,Eddy
+587,Edmund,Ed
+588,Edmund,Eddie
+589,Edmund,Eddy
+590,Edmund,Ned
+591,Edmund,Ted
+592,Eduardo,Ed
+593,Eduardo,Eddie
+594,Eduardo,Eddy
+595,Edward,Ed
+596,Edward,Eddie
+597,Edward,Eddy
+598,Edward,Ned
+599,Edward,Ted
+600,Edward,Teddy
+601,Edwin,Ed
+602,Edwin,Eddie
+603,Edwin,Eddy
+604,Edwin,Ned
+605,Edwin,Win
+606,Edyth,Edie
+607,Edyth,Edye
+608,Edythe,Edie
+609,Edythe,Edye
+610,Elbert,Albert
+611,Eleanor,Elaine
+612,Eleanor,Eleanore
+613,Eleanor,Ellen
+614,Eleanor,Ellie
+615,Eleanor,Lanna
+616,Eleanor,Lenora
+617,Eleanor,Nelly
+618,Eleanor,Nora
+619,Eleanore,Eleanor
+620,Eleazer,Lazar
+621,Elias,Eli
+622,Elias,Lee
+623,Elias,Lias
+624,Elijah,Eli
+625,Elijah,Lige
+626,Eliphalet,Left
+627,Elisabeth,Elizabeth
+628,Elisha,Eli
+629,Elisha,Lish
+630,Elizabeh,Elizabeth
+631,Elizabet,Elizabeth
+632,Elizabeth,Bess
+633,Elizabeth,Bessie
+634,Elizabeth,Beth
+635,Elizabeth,Betsy
+636,Elizabeth,Betty
+637,Elizabeth,Elisa
+638,Elizabeth,Elisabeth
+639,Elizabeth,Eliza
+640,Elizabeth,Elizabet
+641,Elizabeth,Lib
+642,Elizabeth,Libby
+643,Elizabeth,Lisa
+644,Elizabeth,Lise
+645,Elizabeth,Lissie
+646,Elizabeth,Liz
+647,Elizabeth,Liza
+648,Elizabeth,Lizabeth
+649,Elizabeth,Lizzie
+650,Ella,Ellen
+651,Ellen,Eleanor
+652,Ellie,Elly
+653,Elliot,Elliott
+654,Elliott,Elliot
+655,Ellizabeth,Elizabeth
+656,Ellswood,Elsey
+657,Elmira,Ellie
+658,Elmira,Elly
+659,Elmira,Mira
+660,Elouise,Louise
+661,Elsie,Elsey
+662,Elswood,Elsey
+663,Elwood,Woody
+664,Elze,Elsey
+665,Em,Emily
+666,Emanuel,Manny
+667,Emanuel,Manuel
+668,Emeline,Em
+669,Emeline,Emily
+670,Emeline,Emma
+671,Emeline,Emmy
+672,Emeline,Milly
+673,Emily,Em
+674,Emily,Emma
+675,Emily,Emmy
+676,Emily,Mel
+677,Emily,Millie
+678,Emma,Emmy
+679,Epaphroditius,Dite
+680,Epaphroditius,Ditus
+681,Epaphroditius,Dyce
+682,Epaphroditius,Dyche
+683,Epaphroditius,Eppa
+684,Ephraim,Eph
+685,Eric,Rick
+686,Eric,Ricky
+687,Ernest,Ernie
+688,Estella,Essy
+689,Estella,Stella
+690,Estelle,Essy
+691,Estelle,Stella
+692,Eugene,Gene
+693,Eva,Eve
+694,Evaline,Eva
+695,Evaline,Eve
+696,Evaline,Lena
+697,Evelyn,Evelyne
+698,Evelyn,Evie
+699,Evelyne,Evelyn
+700,Evie,Evelyn
+701,Evie,Evelyne
+702,Ezekiel,Ez
+703,Ezekiel,Zeke
+704,Ezra,Ez
+705,Fabi,Fabiola
+706,Fabiola,Fabi
+707,Faith,Fay
+708,Feltie,Felty
+709,Ferdinand,Ferdie
+710,Ferdinand,Fred
+711,Ferdinand,Freddie
+712,Ferdinand,Freddy
+713,Fidelia,Delia
+714,Florence,Flo
+715,Florence,Flora
+716,Florence,Flossy
+717,Fran,Francene
+718,Fran,Francis
+719,Fran,Frannie
+720,Francene,Fran
+721,Frances,Cissy
+722,Frances,Fanny
+723,Frances,Fran
+724,Frances,Francesca
+725,Frances,Francie
+726,Frances,Frankie
+727,Frances,Frannie
+728,Frances,Franniey
+729,Frances,Sis
+730,Francesca,Frances
+731,Francine,Fran
+732,Francine,Francie
+733,Francine,Frannie
+734,Francine,Franniey
+735,Francis,Fran
+736,Francis,Frank
+737,Francis,Frankie
+738,Frankie,Frank
+739,Franklin,Fran
+740,Franklin,Frank
+741,Franklind,Frank
+742,Fred,Freddy
+743,Fred,Frederic
+744,Fred,Frederick
+745,Fred,Frederico
+746,Fred,Fredric
+747,Fred,Fredrick
+748,Freda,Frieda
+749,Freddy,Frederick
+750,Frederic,Fredric
+751,Frederick,Fred
+752,Frederick,Freddie
+753,Frederick,Freddy
+754,Frederick,Fritz
+755,Fredericka,Freda
+756,Fredericka,Freddy
+757,Fredericka,Frieda
+758,Fredericka,Ricka
+759,Frederico,Fred
+760,Frederico,Frederic
+761,Fredric,Fred
+762,Fredric,Frederic
+763,Fredrick,Fred
+764,Frieda,Fred
+765,Frieda,Freddie
+766,Frieda,Freddy
+767,Gabby,Gabe
+768,Gabriel,Gabby
+769,Gabriel,Gabe
+770,Gabriella,Ella
+771,Gabriella,Gabby
+772,Gabrielle,Ella
+773,Gabrielle,Gabby
+774,Garold,Gairold
+775,Genevieve,Eve
+776,Genevieve,Jean
+777,Genevieve,Jenny
+778,Geoff,Jeff
+779,Geoffrey,Geof
+780,Geoffrey,Geoff
+781,Geoffrey,Jeff
+782,Gerald,Gerry
+783,Gerald,Jerry
+784,Geraldine,Dina
+785,Geraldine,Gerrie
+786,Geraldine,Gerry
+787,Geraldine,Jerry
+788,Gerry,Jerry
+789,Gert,Gertie
+790,Gertrude,Gert
+791,Gertrude,Gertie
+792,Gertrude,Trudy
+793,Gil,Gilbert
+794,Gil,Gilberto
+795,Gilbert,Bert
+796,Gilbert,Gil
+797,Gilbert,Wilber
+798,Gilberto,Gil
+799,Gilberto,Gilbert
+800,Glad,Gladstone
+801,Gladstone,Glad
+802,Greg,Gregory
+803,Gregory,Greg
+804,Gum,Monty
+805,Gus,Augustine
+806,Gus,Gussie
+807,Gwen,Wendy
+808,Gwendolyn,Gwen
+809,Gwendolyn,Wendy
+810,Gwyn,Gwyneth
+811,Gwyneth,Gwyn
+812,Hannah,Anna
+813,Hannah,Nan
+814,Hannah,Nanny
+815,Harold,Hal
+816,Harold,Harry
+817,Harriet,Hattie
+818,Harrison,Harris
+819,Heather,Heathet
+820,Heathet,Heather
+821,Helen,Ella
+822,Helen,Ellen
+823,Helen,Ellie
+824,Helen,Lena
+825,Helene,Ella
+826,Helene,Ellen
+827,Helene,Ellie
+828,Helene,Lena
+829,Heloise,Eloise
+830,Heloise,Elouise
+831,Heloise,Lois
+832,Henrietta,Etta
+833,Henrietta,Etty
+834,Henrietta,Hank
+835,Henrietta,Henriette
+836,Henrietta,Nettie
+837,Henrietta,Retta
+838,Henriette,Henrietta
+839,Henry,Hal
+840,Henry,Hank
+841,Henry,Harry
+842,Hephsibah,Hipsie
+843,Hepsibah,Hipsie
+844,Herbert,Bert
+845,Herbert,Herb
+846,Hermione,Hermie
+847,Hester,Esther
+848,Hester,Hessy
+849,Hester,Hetty
+850,Hezekiah,Hez
+851,Hezekiah,Hy
+852,Hezekiah,Kiah
+853,Hiram,Hy
+854,Hopkins,Hop
+855,Hopkins,Hopp
+856,Horace,Horry
+857,Hubert,Bert
+858,Hubert,Hub
+859,Hubert,Hugh
+860,Ignatius,Iggy
+861,Ignatius,Nace
+862,Ignatius,Nate
+863,Ignatius,Natius
+864,Irene,Rena
+865,Irving,Irv
+866,Isaac,Ike
+867,Isaac,Zeke
+868,Isabel,Bell
+869,Isabel,Bella
+870,Isabel,Belle
+871,Isabel,Ib
+872,Isabel,Issy
+873,Isabel,Nib
+874,Isabel,Nibby
+875,Isabel,Tibbie
+876,Isabella,Bella
+877,Isabella,Belle
+878,Isabella,Ib
+879,Isabella,Issy
+880,Isabella,Nib
+881,Isabella,Nibby
+882,Isabella,Tibbie
+883,Isabelle,Bella
+884,Isabelle,Belle
+885,Isabelle,Ib
+886,Isabelle,Issy
+887,Isabelle,Nib
+888,Isabelle,Nibby
+889,Isabelle,Tibbie
+890,Isadora,Dora
+891,Isadora,Issy
+892,Isidore,Izzy
+893,Jacob,Jaap
+894,Jacob,Jake
+895,Jacob,Jay
+896,Jacobus,Jacob
+897,James,Jame
+898,James,Jamie
+899,James,Jem
+900,James,Jim
+901,James,Jimmie
+902,James,Jimmy
+903,Jami,Jamison
+904,Jamie,Ben
+905,Jamison,Jami
+906,Jan,Janet
+907,Jan,Janis
+908,Jane,Janie
+909,Jane,Jean
+910,Jane,Jennie
+911,Jane,Jessie
+912,Janet,Jan
+913,Janet,Jane
+914,Janet,Jannette
+915,Janet,Jessie
+916,Janice,Jan
+917,Janis,Jan
+918,Janne,Janet
+919,Jannette,Janet
+920,Jay,Jacob
+921,Jaydee,Jay
+922,Jean,Jane
+923,Jean,Jea
+924,Jean,Jean Marie
+925,Jean,Jeanie
+926,Jean,Jeannie
+927,Jean Marie,Jean
+928,Jeanette,Janet
+929,Jeanette,Jean
+930,Jeanette,Jeanie
+931,Jeanette,Jeannette
+932,Jeanette,Jessie
+933,Jeanette,Nettie
+934,Jeanie,Jean
+935,Jeanne,Jane
+936,Jeanne,Jeannie
+937,Jeannette,Jeanette
+938,Jeannette,Jeanie
+939,Jedidiah,Jed
+940,Jeff,Jefferey
+941,Jeff,Jeffery
+942,Jeff,Jefff
+943,Jeff,Jeffrey
+944,Jefferey,Jeff
+945,Jefferson,Jeff
+946,Jefferson,Sonny
+947,Jeffery,Jeff
+948,Jeffrey,Geoff
+949,Jeffrey,Jef
+950,Jeffrey,Jeff
+951,Jeffrey,Jefff
+952,Jeffrey,JJ
+953,Jehiel,Hiel
+954,Jemima,Mima
+955,Jen,Jennifer
+956,Jen,Jenny
+957,Jeni,Jennifer
+958,Jenifer,Jennifer
+959,Jenn,Jennifer
+960,Jennifer,Jen
+961,Jennifer,Jeni
+962,Jennifer,Jenifer
+963,Jennifer,Jenn
+964,Jennifer,Jennie
+965,Jennifer,Jenny
+966,Jenny,Jennifer
+967,Jeremiah,Jereme
+968,Jeremiah,Jerry
+969,Jerry,Jereme
+970,Jessica,Jessie
+971,Jessie,Jess
+972,Jil,Jill
+973,Jill,Jil
+974,Jim,James
+975,Jim,Jimmie
+976,Jim,Jimmy
+977,Jimmy,James
+978,Jimmy,Jim
+979,JJ,Jeffrey
+980,Jo,Jo Ann
+981,Jo,Jo Anna
+982,Jo,Jo Anne
+983,Jo,Jolene
+984,Jo,Josefina
+985,Jo Ann,Jo
+986,Jo Anna,Jo
+987,Jo Anne,Jo
+988,Joan,Jo
+989,Joan,Joanie
+990,Joan,Nonie
+991,Joanie,Joan
+992,Joann,Jo
+993,Joann,Joanne
+994,Joanna,Hannah
+995,Joanna,Jo
+996,Joanna,Joan
+997,Joanna,Jody
+998,Joanne,Jo
+999,Joanne,Joann
+1000,Joannn,Joann
+1001,Jody,Jo
+1002,Joe,Joey
+1003,Johanna,Jo
+1004,Johannah,Hannah
+1005,Johannah,Joan
+1006,Johannah,Jody
+1007,Johannah,Nonie
+1008,John,Jack
+1009,John,Jock
+1010,John,Johnnie
+1011,John,Johnny
+1012,Johnnie,John
+1013,Johnnie,Johnny
+1014,Johnny,John
+1015,Jolene,Jo
+1016,Jon,John
+1017,Jon,Jonathan
+1018,Jon,Nathan
+1019,Jonathan,John
+1020,Jonathan,Jon
+1021,Jonathan,Jonathon
+1022,Jonathan,Nathan
+1023,Jonathon,Jonathan
+1024,Josef,Joe
+1025,Josef,Joseph
+1026,Josefina,Jo
+1027,Joseph,Jody
+1028,Joseph,Joe
+1029,Joseph,Joesph
+1030,Joseph,Joey
+1031,Joseph,Jos
+1032,Joseph,Josef
+1033,Josephine,Fina
+1034,Josephine,Jo
+1035,Josephine,Jody
+1036,Josephine,Joey
+1037,Josephine,Josey
+1038,Joshua,Jos
+1039,Joshua,Josh
+1040,Josiah,Jos
+1041,Joyce,Joy
+1042,Jozef,Jozefs
+1043,Jozefs,Jozef
+1044,Juanita,Nettie
+1045,Juanita,Nita
+1046,Judi,Judith
+1047,Judi,Judy
+1048,Judith,Judi
+1049,Judith,Judy
+1050,Judith Ann,Judith
+1051,Judson,Jud
+1052,Judson,Sonny
+1053,Judy,Judith
+1054,Julia,Jill
+1055,Julia,Julie
+1056,Julian,Jule
+1057,Julias,Jule
+1058,Julie,Jule
+1059,Julie,Juli
+1060,Julie,Julie Ann
+1061,Julie,Juliet
+1062,Juliet,Julie
+1063,Junior,JR
+1064,Junior,June
+1065,Junior,Junie
+1066,Karen,Kar
+1067,Kasey,K.C.
+1068,Kat,Katherine
+1069,Kat,Kathryn
+1070,Kate,Kay
+1071,Katelin,Kate
+1072,Katelin,Kay
+1073,Katelin,Kaye
+1074,Katelyn,Kate
+1075,Katelyn,Kay
+1076,Katelyn,Kaye
+1077,Katharine,Katherine
+1078,Katharine,Kathy
+1079,Katherin,Katherine
+1080,Katherine,Cassie
+1081,Katherine,Cathy
+1082,Katherine,Kate
+1083,Katherine,Katharine
+1084,Katherine,Kathy
+1085,Katherine,Katy
+1086,Katherine,Kay
+1087,Katherine,Kaye
+1088,Katherine,Kit
+1089,Katherine,Kittie
+1090,Katherine,Kitty
+1091,Katherine,Lena
+1092,Katherine,Trina
+1093,Kathleeen,Kathleen
+1094,Kathleen,Cassie
+1095,Kathleen,Cathy
+1096,Kathleen,Kathlee
+1097,Kathleen,Kathy
+1098,Kathleen,Katy
+1099,Kathleen,Kay
+1100,Kathleen,Kit
+1101,Kathleen,Kittie
+1102,Kathleen,Lena
+1103,Kathleen,Trina
+1104,Kathryn,Kat
+1105,Kathryn,Kathy
+1106,Kathryn,Kitty
+1107,Kathy,Kathleen
+1108,Kathy,Kathryn
+1109,Katy,Kathy
+1110,Kellly,Kelly
+1111,Kelly,Kellly
+1112,Ken,Kenneth
+1113,Kendall,Ken
+1114,Kendall,Kenny
+1115,Kendrick,Ken
+1116,Kendrick,Kenny
+1117,Kennet,Kenneth
+1118,Kenneth,Ken
+1119,Kenneth,Kendrick
+1120,Kenneth,Kennet
+1121,Kenneth,Kenny
+1122,Kennith,Ken
+1123,Kenny,Ken
+1124,Kent,Ken
+1125,Kent,Kendrick
+1126,Kent,Kenny
+1127,Keziah,Kizza
+1128,Keziah,Kizzie
+1129,Kimberley,Kim
+1130,Kimberly,Kim
+1131,Kingsley,King
+1132,Kingston,King
+1133,Kirstin,Kristine
+1134,Kit,Kittie
+1135,Kitty,Katherine
+1136,Kori,Korinne
+1137,Korinne,Kori
+1138,Kris,Chris
+1139,Kris,Kristen
+1140,Kris,Kristin
+1141,Kristen,Chris
+1142,Kristen,Kirstin
+1143,Kristen,Kris
+1144,Kristen,Kristin
+1145,Kristi,Kristina
+1146,Kristin,Chris
+1147,Kristin,Kris
+1148,Kristin,Kristen
+1149,Kristina,Kristi
+1150,Kristine,Chris
+1151,Kristine,Christy
+1152,Kristine,Crissy
+1153,Kristine,Kris
+1154,Kristine,Kristy
+1155,Kristine,Tina
+1156,Kristy,Chris
+1157,Lafayette,Fate
+1158,Lafayette,Laffie
+1159,Lamont,Monty
+1160,Larry,Laurence
+1161,Larry,Lawrence
+1162,Laurence,Larry
+1163,Laurence,Lon
+1164,Laurence,Lonny
+1165,Laurence,Lorne
+1166,Laurence,Lorry
+1167,Lavina,Ina
+1168,Lavina,Vina
+1169,Lavina,Viney
+1170,Lavinia,Ina
+1171,Lavinia,Vina
+1172,Lavinia,Viney
+1173,Lawrence,Larry
+1174,Lawrence,Lawence
+1175,Lawrence,Lon
+1176,Lawrence,Lonny
+1177,Lawrence,Lorne
+1178,Lawrence,Lorry
+1179,Leann,Leanne
+1180,Leanne,Leann
+1181,Leeann,Leann
+1182,Leeann,Leanne
+1183,Lemuel,Lem
+1184,Lena,Ellen
+1185,Lenora,Lee
+1186,Lenora,Nora
+1187,Leo,Leon
+1188,Leo,Leonard
+1189,Leo,Leonardo
+1190,Leonard,Len
+1191,Leonard,Lenny
+1192,Leonard,Leo
+1193,Leonard,Leon
+1194,Leonard,Leonardo
+1195,Leonard,Lineau
+1196,LeRoy,L.R.
+1197,LeRoy,Lee
+1198,LeRoy,Roy
+1199,Leslie,Les
+1200,Lester,Les
+1201,Letitia,Lettice
+1202,Letitia,Lettie
+1203,Letitia,Tish
+1204,Letitia,Titia
+1205,Levi,Lee
+1206,Lib,Libby
+1207,Lidia,Lyddy
+1208,Lil,Lilly
+1209,Lil,Lily
+1210,Lill,Lillian
+1211,Lillah,Lil
+1212,Lillah,Lilly
+1213,Lillah,Lily
+1214,Lillah,Lolly
+1215,Lillian,Lil
+1216,Lillian,Lili
+1217,Lillian,Lill
+1218,Lillian,Lilly
+1219,Lillian,Lolly
+1220,Lilly,Lily
+1221,Lin,Linda
+1222,Lincoln,Link
+1223,Linda,Lin
+1224,Linda,Lind
+1225,Linda,Linds
+1226,Linda,Lindy
+1227,Linda,Lynn
+1228,Linds,Linda
+1229,Lindy,Lynn
+1230,Lindy,Melinda
+1231,Lisa,Alice
+1232,Lisa,Liz
+1233,Lisa,Lizzie
+1234,Lisa,Melissa
+1235,Lise,Elizabeth
+1236,Lise,Liz
+1237,Lissie,Elizabeth
+1238,Liz,Louise
+1239,Lizzie,Liz
+1240,Lois,Lou
+1241,Lois,Louise
+1242,Lola,Lola Jean
+1243,Lola Jean,Lola
+1244,Lon,Lonzo
+1245,Lorenzo,Loren
+1246,Loretta,Etta
+1247,Loretta,Lorettra
+1248,Loretta,Lorrie
+1249,Loretta,Retta
+1250,Lori,Lorie
+1251,Lorie,Lori
+1252,Lorrain,Lorraine
+1253,Lorraine,Lorrain
+1254,Lorraine,Lorrie
+1255,Lotta,Lottie
+1256,Lou,Lou Ann
+1257,Lou,Louie
+1258,Lou,Louis
+1259,Lou,Lu
+1260,Lou Ann,Lou
+1261,Louie,Lou
+1262,Louie,Louis
+1263,Louis,Lou
+1264,Louis,Louie
+1265,Louisa,Eliza
+1266,Louisa,Lois
+1267,Louisa,Lou
+1268,Louise,Eliza
+1269,Louise,Liz
+1270,Louise,Lois
+1271,Louise,Lou
+1272,Lucas,Luke
+1273,Lucias,Luke
+1274,Lucille,Cille
+1275,Lucille,Lou
+1276,Lucille,Lu
+1277,Lucille,Lucy
+1278,Lucinda,Cindy
+1279,Lucinda,Lou
+1280,Lucinda,Lu
+1281,Lucinda,Lucy
+1282,Luella,Ella
+1283,Luella,Lu
+1284,Luella,Lula
+1285,Luther,Luke
+1286,Lydia,Lyddy
+1287,Lyndon,Lindy
+1288,Lyndon,Lynn
+1289,Maddy,Madge
+1290,Madeleine,Madelein
+1291,Madeline,Lena
+1292,Madeline,Maddy
+1293,Madeline,Madge
+1294,Madeline,Magda
+1295,Madeline,Maggie
+1296,Magdelina,Lena
+1297,Magdelina,Madge
+1298,Magdelina,Magda
+1299,Mahala,Hallie
+1300,Manda,Mandy
+1301,Manny,Manuel
+1302,Mar,Marjan
+1303,Marci,Marcia
+1304,Marci,Marcie
+1305,Marci,Marcy
+1306,Marcia,Marci
+1307,Marcia,Marcy
+1308,Marcie,Marci
+1309,Marcus,Mark
+1310,Marcy,Marci
+1311,Marcy,Marcia
+1312,Margaret,Daisy
+1313,Margaret,Gretta
+1314,Margaret,Madge
+1315,Margaret,Maggie
+1316,Margaret,Maggy
+1317,Margaret,Margarett
+1318,Margaret,Marge
+1319,Margaret,Margery
+1320,Margaret,Margie
+1321,Margaret,Margy
+1322,Margaret,Meg
+1323,Margaret,Midge
+1324,Margaret,Peg
+1325,Margaret,Peggy
+1326,Margaret,Rita
+1327,Margarett,Margaret
+1328,Margaretta,Daisy
+1329,Margaretta,Gretta
+1330,Margaretta,Madge
+1331,Margaretta,Maggie
+1332,Margaretta,Marge
+1333,Margaretta,Margery
+1334,Margaretta,Margie
+1335,Margaretta,Meg
+1336,Margaretta,Midge
+1337,Margaretta,Peg
+1338,Margaretta,Peggy
+1339,Margaretta,Rita
+1340,Marge,Margery
+1341,Margie,Margaret
+1342,Margie,Margie
+1343,Mari,Mariel
+1344,Mari,Marisa
+1345,Mariann,Marian
+1346,Marianne,Marian
+1347,Marianne,Mary Ann
+1348,Marianne,Mary Anne
+1349,Mariel,Mari
+1350,Marisa,Mari
+1351,Marisa,Marissa
+1352,Marissa,Marisa
+1353,Marjan,Mar
+1354,Marjorie,Margie
+1355,Marjorie,Margy
+1356,Marlynn,Maryln
+1357,Martha,Marty
+1358,Martha,Mat
+1359,Martha,Mattie
+1360,Martha,Patsy
+1361,Martha,Patty
+1362,Martin,Marty
+1363,Martina,Tina
+1364,Martinus,Martin
+1365,Marvin,Marv
+1366,Mary,Mae
+1367,Mary,Mamie
+1368,Mary,Mary Ann
+1369,Mary,Mary Anne
+1370,Mary,Mary Beth
+1371,Mary,Mary Ellen
+1372,Mary,Mary Fran
+1373,Mary,Mary Jane
+1374,Mary,Mary Jo
+1375,Mary,Mary Kay
+1376,Mary,Mary Lou
+1377,Mary,Mary Pat
+1378,Mary,Maryann
+1379,Mary,Mitzi
+1380,Mary,Molly
+1381,Mary,Polly
+1382,Mary Ann,Mary
+1383,Mary Ann,Mary Anne
+1384,Mary Anne,Mary
+1385,Mary Anne,Mary Ann
+1386,Mary Beth,Mary
+1387,Mary Beth,Mary Beth
+1388,Mary Elen,Mary Ellen
+1389,Mary Ellen,Mary
+1390,Mary Ellen,Mary Elen
+1391,Mary Fran,Mary
+1392,Mary Jane,Mary
+1393,Mary Jo,Mary
+1394,Mary Kay,Mary
+1395,Mary Lou,Mary
+1396,Mary Lou,Mary Louise
+1397,Mary Pat,Mary
+1398,Maryann,Marianne
+1399,Maryann,Mary
+1400,Maryann,Mary Ann
+1401,Maryann,Maryanne
+1402,Maryln,Marlynn
+1403,Marylyn,Mary
+1404,Masu,Masarath
+1405,Mat,Mattie
+1406,Matilda,Matty
+1407,Matilda,Maud
+1408,Matilda,Tilly
+1409,Matthew,Matt
+1410,Matthew,Mattie
+1411,Matthew,Matty
+1412,Matthew,Thias
+1413,Matthew,Thys
+1414,Matthias,Matt
+1415,Matthias,Thias
+1416,Matthias,Thys
+1417,Maurice,Morey
+1418,May,Maybelle
+1419,Maybelle,May
+1420,Mayda,Maydda
+1421,Mehitabel,Hetty
+1422,Mehitabel,Hitty
+1423,Mehitabel,Mabel
+1424,Mehitabel,Mitty
+1425,Melinda,Linda
+1426,Melinda,Lindy
+1427,Melinda,Lynn
+1428,Melinda,Mel
+1429,Melinda,Mindy
+1430,Melissa,Lisa
+1431,Melissa,Lissa
+1432,Melissa,Mel
+1433,Melissa,Milly
+1434,Melissa,Missy
+1435,Mervyn,Merv
+1436,Micelle,Michelle
+1437,Michael,Micah
+1438,Michael,Michel
+1439,Michael,Mick
+1440,Michael,Micky
+1441,Michael,Mike
+1442,Micheke,Michele
+1443,Michele,Micheke
+1444,Michele,Michelle
+1445,Michelle,Micelle
+1446,Michelle,Michele
+1447,Michelle,Mickey
+1448,Mick,Micky
+1449,Mike,Mick
+1450,Mike,Micky
+1451,Mildred,Milly
+1452,Millicent,Milly
+1453,Millicent,Missy
+1454,Minerva,Minnie
+1455,Miranda,Mandy
+1456,Miranda,Mira
+1457,Miranda,Randy
+1458,Miriam,Mimi
+1459,Miriam,Mitzi
+1460,Mitch,Mitchell
+1461,Mitchell,Mitch
+1462,Mitchelll,Mitch
+1463,Mitchelll,Mitchell
+1464,Mo,Morgan
+1465,Montgomery,Gum
+1466,Montgomery,Monty
+1467,Morgan,Mo
+1468,Morris,Morey
+1469,Nan,Nancy
+1470,Nanci,Nancy
+1471,Nancy,Ann
+1472,Nancy,Nan
+1473,Nancy,Nanci
+1474,Nancy,Nanny
+1475,Napoleon,Leon
+1476,Napoleon,Nap
+1477,Napoleon,Nappy
+1478,Naren,Narendra
+1479,Narendra,Naren
+1480,Natalie,Natty
+1481,Natalie,Nettie
+1482,Nathan,Nat
+1483,Nathan,Nate
+1484,Nathaniel,Nat
+1485,Nathaniel,Nate
+1486,Nathaniel,Nathan
+1487,Nathaniel,Natty
+1488,Nathaniel,Than
+1489,Nelle,Nelly
+1490,Nicholas,Claas
+1491,Nicholas,Claes
+1492,Nicholas,Nick
+1493,Nick,Nik
+1494,Niicholas,Nicholas
+1495,Nik,Nick
+1496,Nik,Nikunj
+1497,Nikk,Nikki
+1498,Nikki,Nikk
+1499,Nikunj,Nik
+1500,Norbert,Bert
+1501,Norbert,Norby
+1502,Norm,Norman
+1503,Norman,Norm
+1504,Obadiah,Diah
+1505,Obadiah,Dyer
+1506,Obadiah,Obed
+1507,Obadiah,Obie
+1508,Olive,Livia
+1509,Olive,Nollie
+1510,Olive,Ollie
+1511,Oliver,Ollie
+1512,Olivia,Livia
+1513,Olivia,Nollie
+1514,Olivia,Ollie
+1515,Ossy,Ozzy
+1516,Oswald,Ossy
+1517,Oswald,Ozzy
+1518,Oswald,Waldo
+1519,Pamela,Pam
+1520,Pamela,Pamel
+1521,Parmelia,Amelia
+1522,Parmelia,Melia
+1523,Parmelia,Milly
+1524,Pat,Pat
+1525,Patience,Pat
+1526,Patience,Patty
+1527,Patrice,Patti
+1528,Patrich,Pat
+1529,Patrich,Patrick
+1530,Patricia,Pat
+1531,Patricia,Patrica
+1532,Patricia,Patsy
+1533,Patricia,Patty
+1534,Patricia,Tricia
+1535,Patrick,Paddy
+1536,Patrick,Pat
+1537,Patrick,Pate
+1538,Patrick,Patrich
+1539,Patrick,Patsy
+1540,Patrick,Peter
+1541,Patsy,Patty
+1542,Patti,Patrice
+1543,Patti,Patricia
+1544,Patty,Patricia
+1545,Paula,Lina
+1546,Paula,Polly
+1547,Paulina,Lina
+1548,Paulina,Polly
+1549,Peg,Peggy
+1550,Peggy,Margaret
+1551,Pelegrine,Perry
+1552,Penelope,Penny
+1553,Percival,Percy
+1554,Pete,Peter
+1555,Peter,Pate
+1556,Peter,Pete
+1557,Peter,Petey
+1558,Phil,Phillip
+1559,Philetus,Leet
+1560,Philetus,Phil
+1561,Philinda,Linda
+1562,Philinda,Lindy
+1563,Philinda,Lynn
+1564,Philip,Phil
+1565,Philip,Phillip
+1566,Phillip,Phil
+1567,Phillip,Philip
+1568,Philly,Delphia
+1569,Prescott,Pres
+1570,Prescott,Scott
+1571,Prescott,Scotty
+1572,Priscilla,Cilla
+1573,Priscilla,Cissy
+1574,Priscilla,Prissy
+1575,Prudence,Prudy
+1576,Prudence,Prue
+1577,Rachel,Shelly
+1578,Rafaela,Rafa
+1579,Raj,Rajesh
+1580,Rajeev,Raj
+1581,Rajesh,Raj
+1582,Randal,Randall
+1583,Randall,Randal
+1584,Randolph,Dolph
+1585,Randolph,Randy
+1586,Raphael,Ralph
+1587,Ravin,Ravindran
+1588,Ravindran,Ravin
+1589,Ray,Raymond
+1590,Raymond,Ray
+1591,Reba,Becca
+1592,Reba,Beck
+1593,Rebecca,Becca
+1594,Rebecca,Beck
+1595,Rebecca,Becky
+1596,Rebecca,Reba
+1597,Reg,Reggie
+1598,Regina,Gina
+1599,Regina,Reggie
+1600,Reginald,Naldo
+1601,Reginald,Reg
+1602,Reginald,Reggie
+1603,Reginald,Renny
+1604,Relief,Leafa
+1605,Renn,Rennett
+1606,Rennett,Renn
+1607,Reuben,Rube
+1608,Rey,Reynaldo
+1609,Reynaldo,Rey
+1610,Ric,Richard
+1611,Ricardo,Rick
+1612,Ricardo,Ricky
+1613,Rich,Dick
+1614,Rich,Riche
+1615,Rich,Rick
+1616,Richarad,Richard
+1617,Richard,Dick
+1618,Richard,Dickie
+1619,Richard,Dickon
+1620,Richard,Dicky
+1621,Richard,Ric
+1622,Richard,Rich
+1623,Richard,Richarad
+1624,Richard,Richrd
+1625,Richard,Rick
+1626,Richard,Ricky
+1627,Richard,Riichard
+1628,Richrd,Richard
+1629,Rick,Derrick
+1630,Rick,Ric
+1631,Rick,Richard
+1632,Rick,Ricky
+1633,Ricky,Dick
+1634,Ricky,Rich
+1635,Ricky,Richard
+1636,Riichard,Richard
+1637,Rob,Robbie
+1638,Rob,Robert
+1639,Robbie,Rob
+1640,Robert,Bob
+1641,Robert,Bobby
+1642,Robert,Dob
+1643,Robert,Dobbin
+1644,Robert,Hob
+1645,Robert,Hobkin
+1646,Robert,Rob
+1647,Robert,Robbie
+1648,Robert,Robet
+1649,Robert,Robin
+1650,Roberta,Bert
+1651,Roberta,Bertie
+1652,Roberta,Birdie
+1653,Roberta,Bobbie
+1654,Roberta,Robbie
+1655,Robet,Robert
+1656,Robin,Robert
+1657,Rodger,Bobby
+1658,Rodger,Hodge
+1659,Rodger,Robby
+1660,Rodger,Robin
+1661,Rodger,Rod
+1662,Rodger,Roge
+1663,Rodger,Rupert
+1664,Rodnick,Rod
+1665,Roger,Bobby
+1666,Roger,Hodge
+1667,Roger,Robby
+1668,Roger,Robin
+1669,Roger,Rod
+1670,Roger,Roge
+1671,Roger,Roget
+1672,Roger,Rupert
+1673,Roget,Roger
+1674,Roland,Lanny
+1675,Roland,Orlando
+1676,Roland,Rollo
+1677,Roland,Rolly
+1678,Ron,Ron
+1679,Ron,Ronnie
+1680,Ron,Ronny
+1681,Ronald,Naldo
+1682,Ronald,Ron
+1683,Ronald,Ronnie
+1684,Ronald,Ronny
+1685,Ronny,Ronald
+1686,Ros,Rosalyn
+1687,Rosa,Rose
+1688,Rosabel,Belle
+1689,Rosabel,Rosa
+1690,Rosabel,Rose
+1691,Rosabel,Roz
+1692,Rosabella,Belle
+1693,Rosabella,Rosa
+1694,Rosabella,Rose
+1695,Rosabella,Roz
+1696,Rosalind,Rosaling
+1697,Rosalinda,Linda
+1698,Rosalinda,Rosa
+1699,Rosalinda,Rose
+1700,Rosalinda,Roz
+1701,Rosalyn,Linda
+1702,Rosalyn,Ros
+1703,Rosalyn,Rosa
+1704,Rosalyn,Rose
+1705,Rosalyn,Roz
+1706,Rose,Roselia
+1707,Rose,Rosemary
+1708,Rose,Rosie
+1709,Roseann,Ann
+1710,Roseann,Rose
+1711,Roseann,Rosie
+1712,Roseann,Roz
+1713,Roseanna,Ann
+1714,Roseanna,Rose
+1715,Roseanna,Rosie
+1716,Roseanna,Roz
+1717,Roseanne,Ann
+1718,Roselia,Rose
+1719,Rosemary,Rose
+1720,Rosemary,Rosie
+1721,Rosie,Rose
+1722,Rosie,Rosemary
+1723,Roxanna,Ann
+1724,Roxanna,Rose
+1725,Roxanna,Roxie
+1726,Roxanne,Ann
+1727,Roxanne,Rose
+1728,Roxanne,Roxie
+1729,Rudolph,Dolph
+1730,Rudolph,Olph
+1731,Rudolph,Rolf
+1732,Rudolph,Rudy
+1733,Rudolphus,Dolph
+1734,Rudolphus,Olph
+1735,Rudolphus,Rolf
+1736,Rudolphus,Rudy
+1737,Russ,Russel
+1738,Russ,Russell
+1739,Russ,Rusty
+1740,Russel,Russ
+1741,Russel,Rusty
+1742,Russell,Russ
+1743,Russell,Rusty
+1744,Rusty,Russel
+1745,Sabina,Sabine
+1746,Sabine,Sabina
+1747,Sabrina,Brina
+1748,Sach,Sachdev
+1749,Sachdev,Sach
+1750,Sachin,Sach
+1751,Sally,Sallly
+1752,Sam,Samir
+1753,Sam,Sammy
+1754,Sam,Samuel
+1755,Samir,Sam
+1756,Sammy,Samuel
+1757,Samuel,Sam
+1758,Samuel,Sammy
+1759,Sandra,Cassandra
+1760,Sandra,Sandy
+1761,Sara,Sara Lee
+1762,Sara Lee,Sara
+1763,Sarah,Sadie
+1764,Sarah,Sally
+1765,Serena,Rena
+1766,Seymour,Morey
+1767,Seymour,See
+1768,Shari,Sharalyn
+1769,Shari,Sharilyn
+1770,Shari,Sharon
+1771,Sharon,Shari
+1772,Sharon,Sharo
+1773,Shelton,Shel
+1774,Shelton,Shelly
+1775,Shelton,Tony
+1776,Sheridan,Dan
+1777,Sheridan,Danny
+1778,Sheridan,Sher
+1779,Sherrie,Sheryl
+1780,sheryl,sher
+1781,Sheryl,Sherrie
+1782,Shirley,Sherry
+1783,Shirley,Shirl
+1784,Sidney,Sid
+1785,Sidney,Syd
+1786,Sig,Sigfried
+1787,Sig,Sigmund
+1788,Sigfried,Sig
+1789,Sigmund,Sig
+1790,Silas,Si
+1791,Simeon,Si
+1792,Simeon,Sion
+1793,Simon,Si
+1794,Simon,Sion
+1795,Smith,Smitty
+1796,Solomon,Sal
+1797,Solomon,Salmon
+1798,Solomon,Saul
+1799,Solomon,Sol
+1800,Solomon,Solly
+1801,Solomon,Zolly
+1802,Sophia,Sophie
+1803,Stan,Stannous
+1804,Stanley,Stan
+1805,Stanley,Stanly
+1806,Stanly,Stanley
+1807,Stannous,Stan
+1808,Stef,Stefan
+1809,Stef,Stefanie
+1810,Stefan,Stef
+1811,Stefanie,Stef
+1812,Stephan,Steve
+1813,Stephen,Steph
+1814,Stephen,Steve
+1815,Stephen,Steven
+1816,Steven,Steph
+1817,Steven,Stephen
+1818,Steven,Steve
+1819,Steven,Stevens
+1820,Stevens,Steve
+1821,Stevens,Steven
+1822,Stuart,Stu
+1823,Submit,Mitty
+1824,Sue,Sue Ann
+1825,Sue,Sue Anne
+1826,Sue,Sue Ellen
+1827,Sue,Susan
+1828,Sue,Susie
+1829,Sue Ann,Sue
+1830,Sue Anne,Sue
+1831,Sue Ellen,Sue
+1832,Sullivan,Sully
+1833,Sullivan,Van
+1834,Susan,Hannah
+1835,Susan,Sue
+1836,Susan,Sukey
+1837,Susan,Susanna
+1838,Susan,Susie
+1839,Susan,Suzie
+1840,Susana,Susanna
+1841,Susanna,Susan
+1842,Susanna,Susana
+1843,Susannah,Hannah
+1844,Susannah,Sue
+1845,Susannah,Sukey
+1846,Susannah,Susie
+1847,Susie,Suzie
+1848,Suzann,Suzanne
+1849,Suzanne,Susan
+1850,Suzanne,Susie
+1851,Suzanne,Suzann
+1852,Syd,Sydney
+1853,Sydney,Syd
+1854,Sylvester,Si
+1855,Sylvester,Sly
+1856,Sylvester,Sy
+1857,Sylvester,Syl
+1858,Sylvester,Vessie
+1859,Sylvester,Vester
+1860,Sylvester,Vet
+1861,Tabitha,Tabby
+1862,Ted,Teddy
+1863,Ted,Theodore
+1864,Teddy,Theodore
+1865,Teodor,Teodore
+1866,Teodore,Ted
+1867,Teodore,Teddy
+1868,Teodore,Teodor
+1869,Teodore,Theodore
+1870,Terence,Terrence
+1871,Terence,Terry
+1872,Teresa,Teresas
+1873,Teresa,Terry
+1874,Teresa,Tess
+1875,Teresas,Teresa
+1876,Teress,Teresa
+1877,Terrence,Terence
+1878,Terrence,Terry
+1879,Terry,Terrence
+1880,Thaddeus,Thad
+1881,Theo,Theodore
+1882,Theo,Theophilus
+1883,Theodore,Ted
+1884,Theodore,Teddy
+1885,Theodore,Teodore
+1886,Theodore,Theo
+1887,Theophilus,Theo
+1888,Theresa,Terry
+1889,Theresa,Tess
+1890,Theresa,Tessa
+1891,Theresa,Tessie
+1892,Theresa,Thirza
+1893,Theresa,Thursa
+1894,Theresa,Tracy
+1895,Thom,Thomas
+1896,Thom,Tom
+1897,Thom,Tommy
+1898,Thomas,Thom
+1899,Thomas,Tom
+1900,Thomas,Tommy
+1901,Tim,Timmy
+1902,Tim,Timothy
+1903,Timmy,Tim
+1904,Timmy,Timothy
+1905,Timothy,Tim
+1906,Timothy,Timmy
+1907,Tina,Christina
+1908,Tobias,Bias
+1909,Tobias,Toby
+1910,Tom,Thom
+1911,Tom,Thomas
+1912,Tom,Tomas
+1913,Tom,Tommy
+1914,Tomas,Tom
+1915,Tommy,Thomas
+1916,Tommy,Tom
+1917,Trix,Trixie
+1918,Tryphena,Phena
+1919,Uriah,Riah
+1920,Val,Valeri
+1921,Val,Valerie
+1922,Valentine,Felty
+1923,Valeri,Val
+1924,Valerie,Val
+1925,Vanessa,Essa
+1926,Vanessa,Nessa
+1927,Vanessa,Vanna
+1928,Vernon,Vern
+1929,Veronica,Franky
+1930,Veronica,Frony
+1931,Veronica,Ron
+1932,Veronica,Ronie
+1933,Veronica,Ronna
+1934,Veronica,Ronnie
+1935,Veronica,Vonnie
+1936,Vic,Vicki
+1937,Vic,Vicky
+1938,Vicki,Vicky
+1939,Victor,Vic
+1940,Victoria,Torie
+1941,Victoria,Tory
+1942,Victoria,Vic
+1943,Victoria,Vicki
+1944,Victoria,Vicky
+1945,Vin,Vinny
+1946,Vince,Vinnie
+1947,Vincent,Vic
+1948,Vincent,Vin
+1949,Vincent,Vince
+1950,Vincent,Vinnie
+1951,Vincent,Vinny
+1952,Vincenzo,Vic
+1953,Vincenzo,Vin
+1954,Vincenzo,Vinnie
+1955,Vincenzo,Vinny
+1956,Vinson,Vinny
+1957,Virginia,Ginger
+1958,Virginia,Ginny
+1959,Virginia,Jane
+1960,Virginia,Jennie
+1961,Virginia,Virgy
+1962,Waldo,Ossy
+1963,Waldo,Ozzy
+1964,Wallace,Wally
+1965,Wally,Walt
+1966,Walt,Walter
+1967,Walter,Wally
+1968,Walter,Walt
+1969,Washington,Wash
+1970,Wayne,Waynett
+1971,Waynett,Wayne
+1972,Wilber,Bert
+1973,Wilber,Will
+1974,Wilbur,Willie
+1975,Wilbur,Willy
+1976,Wilfred,Fred
+1977,Wilfred,Will
+1978,Wilfred,Willie
+1979,Wilhelmina,Mina
+1980,Wilhelmina,Minnie
+1981,Wilhelmina,Willie
+1982,Wilhelmina,Wilma
+1983,Wiliam,William
+1984,Will,Bill
+1985,Will,Fred
+1986,Will,Willard
+1987,Will,William
+1988,Will,Willie
+1989,Willard,Will
+1990,William,Bela
+1991,William,Bell
+1992,William,Bill
+1993,William,Billy
+1994,William,Wiliam
+1995,William,Will
+1996,William,Williams
+1997,William,Willie
+1998,William,Willy
+1999,Williams,William
+2000,Willie,Fred
+2001,Willie,Willlie
+2002,Willliam,Bill
+2003,Willliam,William
+2004,Willlie,Willie
+2005,Wilson,Will
+2006,Wilson,Willie
+2007,Wilson,Willy
+2008,Winfield,Field
+2009,Winfield,Win
+2010,Winfield,Winny
+2011,Winifred,Freddie
+2012,Winifred,Winnet
+2013,Winifred,Winnie
+2014,Winnifred,Fred
+2015,Winnifred,Freddie
+2016,Winnifred,Freddy
+2017,Winnifred,Winnie
+2018,Winnifred,Winny
+2019,Woodrow,Drew
+2020,Woodrow,Wood
+2021,Woodrow,Woody
+2022,Yohanne,Yohannes
+2023,Yohannes,Yohanne
+2024,Yvonne,Vonna
+2025,Zach,Zachary
+2026,Zach,Zack
+2027,Zachariah,Zach
+2028,Zachariah,Zachy
+2029,Zachariah,Zeke
+2030,Zachary,Zach
+2031,Zack,Zak
+2032,Zackary,Zack
+2033,Zackary,Zak
+2034,Zak,Zack
+2035,Zak,Zakery
+2036,Zakery,Zak
+2037,Zebedee,Zeb
+2038,Zedediah,Diah
+2039,Zedediah,Dyer
+2040,Zedediah,Zed
+2041,Zephaniah,Zeph
